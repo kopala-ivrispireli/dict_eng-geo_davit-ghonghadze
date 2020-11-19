@@ -132,7 +132,7 @@ How to add the dictionary to the program GoldenDict
 
 7. The navigation window will close
 
-8. On window Dictionaries click buttons:
+8. In the window Dictionaries click buttons:
 
     Rescan now
     
