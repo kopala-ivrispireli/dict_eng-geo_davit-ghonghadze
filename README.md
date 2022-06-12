@@ -16,6 +16,26 @@ The insturction in Englis see below.
 goldendict-ის თქვენი სისტემისთვის შესაბამისი ვერსია შეგიძლიათ ნახოთ და ჩამოტვირთოთ მისამართიდან:
 http://goldendict.org/download.php
 
+Linux-ის დისტრიბუტივებში, უმეტეს შემთხვევაში, შესაძლებელია რეპოზიტორებიდან:
+
+Debian/Ubuntu:
+1.
+    sudo apt update
+    ან
+    sudo apt-get update
+2.
+    sudo apt install goldendict
+    ან
+    sudo apt-get install goldendict
+
+
+Fedora:
+1.
+    sudo yum makecache --refresh
+2.
+    sudo yum -y install goldendict
+    
+
 ამჟამად ფაილში განმარტებულია/დამუშავებულია 110 ელემენტი (სიტყვა, ასო, არტიკლი, კავშირი, სიტყვათ შეთანხმება, ფრაზა და ა.შ.).
 ლექსიკონში სიტყვების დამატება გრძელდება.
 
