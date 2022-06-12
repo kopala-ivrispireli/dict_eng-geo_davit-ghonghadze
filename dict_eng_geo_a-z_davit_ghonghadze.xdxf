@@ -3,34 +3,40 @@
 <xdxf lang_from="ENG" lang_to="KAT" format="visual">
 <full_name>ინგლისურ-ქართული ლექსიკონი. შედგენილია დავით ღონღაძის მიერ</full_name>
 <description>Copyright: Converted by Davit Ghonghadze under GNU Public License; Version: 1.0</description>
+
+
+
+
+
 <ar>
 	<k>A</k><k>a</k>
-	<b>I</b>
-	[eɪ] [(ეი)]
-	<i style="color:Green;">pl.</i> <i style="color:DodgerBlue;">მრავლობითი ფორმა:</i> <i style="color:DodgerBlue;">As, A's, Aes</i> [eɪz] 
-	<i style="color:DodgerBlue"><b>ინგლისური ანბანის პირველი ასო.</b></i>
-	<i style="color:DodgerBlue"><b>დიდი ასო.</b></i> <b>A</b>, <i style="color:DodgerBlue"><b>პატარა ასო.</b></i> <b>a</b>
-	2. <span style="color:#fa8d1c;font-weight:bold">(A)</span> <i style="color:DodgerBlue"><b>ამერიკული. უმაღლესი შეფასება. „ფრიადი“.</b></i>
-	3. <i style="color:DodgerBlue"><b>განუსაზღვრელი არტიკლი</b></i>
+	<a href="gdau:/home/davit/Documents/dict_audio-eng/a.wav">[ეი] [(ეა)]</a>
+	1. ინგლისური ანბანის პირველი ასო.
+	2. (A) ამერიკული. უმაღლესი შეფასება. „ფრიადი“.
+	3. განუსაზღვრელი არტიკლი
 </ar>
+
 <ar>
 	<k>A1</k>
 	['ეი' ვან]
-	1. <span style="color:#fa8d1c;font-weight:bold">პირველი კლასის ხომალდი</span> <i style="color:DodgerBlue"><b>ლოიდის ხომალდების რეგისტრში.</b></i>
-	2. <i style="color:Green;">სალაპ.</i> <span style="color:#fa8d1c;font-weight:bold">პირველი, ანუ მაღალი კლასის</span>; <span style="color:#fa8d1c;font-weight:bold">გადასარევი, შესანიშნავი, პირველი/უმაღლესი ხარისხის</span>
+	1. პირველი კლასის ხომალდი ლოიდის ხომალდების რეგისტრში.
+	2. <i style="color:Green;">სალაპ.</i> პირველი, ანუ მაღალი კლასის. გადასარევი, შესანიშნავი, პირველი/უმაღლესი ხარისხი.
 </ar>
+
 <ar>
 	<k>aard-vark</k>
 	['(არ):დვა:ქ]
 	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
 	<i style="color:Green;">ზოოლ.</i> აფრიკული ჭიანჭველაჭამია, მილკბილა (<i>Orycteropus gen</i>).
 </ar>
+
 <ar>
 	<k>aard-wolf</k>
 	['ა:დვულf]
 	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
 	<i style="color:Green;">ზოოლ.</i> მიწის მგელი (<i>Proteles cristata</i>).
 </ar>
+
 <ar>
 	<k>ab-</k>
 	[(აე)ბ]
@@ -39,6 +45,7 @@
 	<b>ab</b>normal -- <b>არა</b>ნორმალური.
 	<b>ab</b>normity -- <b>უ</b>სწორობა, მცდარობა, ანომალია.
 </ar>
+
 <ar>
 	<k>aba</k>(I)
 	['ა:ბა]
@@ -47,6 +54,7 @@
 	1. აქლემის ან თხის ბეწვით/მატყლით გაკეთებული ქსოვილი.
 	2. თავისუფალი ზედატანის სამოსი
 </ar>
+
 <ar>
 	<k>aba</k>(II)
 	['(აე)ბა]
@@ -54,22 +62,26 @@
 	<i style="color:Green;">სპეც.</i>
 	ალტაზიმუტი
 </ar>
+
 <ar>
 	<k>abaca</k>
 	['(აე)ბაკა]
 	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
 	<i style="color:Green;">ბოტ.</i> აბაკა. სართავი ბანანი. საფეიქრო ბანანი (<i>Musa textilis</i>).
 </ar>
+
 <ar>
 	<k>abaci</k>
 	<i style="color:Green;">pl</i> of <i><b>abacus</b></i>. abaci-ს მრავლობითი ფორმა.
 	იხ. <a href="bword:abacus">abacus</a>
 </ar>
+
 <ar>
 	<k>abaciscus</k>
 	['აბა'სისქას]
 	<i style="color:Green;">არქიტ.</i>  დასაგები ფილა (მოზაიკური).
 </ar>
+
 <ar>
 	<k>aback</k>
 	[(აე)'ბექ]
@@ -80,17 +92,20 @@
 	<a href="bword:taken aback">taken aback</a> -- გაოგნებული, მოულოდნელად წასწრებული.
 	to stand aback from -- თავის არიდება. მანძილის დისტანციის დაჭერა (მოვლენისგან, ადამიანისგან).
 </ar>
+
 <ar>
-	<k>abacterial</k>
+	<k>aback</k>
 	[აბაქ' თიარიალ]
 	ბაქტერიების გარეშე, უბაქტერიო.
 </ar>
+
 <ar>
 	<k>abacus</k>
 	['(აე)ბაკას]
 	1. აბაკი, აბაკა. საანგარიშო
 	2. <i style="color:Green;">არქიტ.</i>  სვეტის ან პილასტრის კაპიტელის ზედა ფილა.
 </ar>
+
 <ar>
 	<k>abandon</k>(I)
 	[ა'ბ(აე)ნდან]
@@ -158,104 +173,81 @@
 </ar>
 
 <ar>
-	<k>abort</k>
-	[əˈbɔt] [ა'ბო(რ)თ]
-	1. <i style="color:Green;">n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>; <i style="color:Green;">ამერ.</i>; <i style="color:Green;">ავიაც.</i>
-	<span style="color:#fa8d1c;font-weight:bold">ავარიული შეჩერება, შეწყვეტა, გაჩერება</span> <i style="color:DodgerBlue"><b>(ფრენის, რაიმეს გაშვების, რაიმეს დაწყების და ა.შ.)</b></i>
-	launch abort -- ფრენის ავარიული შეჩერება <i style="color:DodgerBlue">(სტარტზე, დასაწყისშივე)</i>
-	The control room had to classify our flight as an air abort -- საკონტროლო პუნქტში ჩვენი ფრენა კლასიფიცირდა, როგორც ფრენის ავარიული შეჩერება ჰაერში.
-	2. <i style="color:Green;">v.</i> <i style="color:DodgerBlue;">ზმნა</i>
-		ა) <span style="color:#fa8d1c;font-weight:bold">მუცლის მოშლა</span>, <span style="color:#fa8d1c;font-weight:bold">ორსულობის ნაადრევი შეწყვეტა</span>
-		She aborted her last child. -- მისი ბოლო ორულობს დასრულდა მუცლის მოშლით.
-		
+	<k>abortion</k>
 </ar>
 
 <ar>
-	<k>abortion</k>
-	[əˈbɔʃ(ə)n] [ა'ბოშ(ა)ნ]
-	<i style="color:Green;">n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	1.
-	<span style="color:#fa8d1c;font-weight:bold">ორსულობის ნაადრევი (უდროო) შეწყვვეტა</span>, <span style="color:#fa8d1c;font-weight:bold">აბორტი</span>, <span style="color:#fa8d1c;font-weight:bold">მუცლის მოშლა</span>, <span style="color:#fa8d1c;font-weight:bold">მუცლის მოწყვეტა</span>; <span style="color:#fa8d1c;font-weight:bold">ხელოვნური აბორტი</span>
-	to do, perform an abortion on -- აბორტის გაკეთება <i style="color:DodgerBlue">(ვინმესთვის, ვინმე სხვისთვის)</i>
-	to have, get an abortion -- აბორტის გაკეთება
-	to induce an abortion -- აბორტის გამოწვევა
-	accidental abortion -- ტრამვით გამოწვეული თვითნებური აბორტი
-	attempted abortion -- არშემდგარი, შეუმდგარი აბორტი
-	criminal abortion, inevitable abortion -- მოსალოდნელი აბორტი, გარდაუვალი აბორტი
-	justifiable abortion, therapeutic abortion, legal(ized) abortion -- სამედიცინო, ლეგალური, კანონიერი აბორტი
-	natural abortion, spontaneous abortion -- თვითებური აბორტი, სპონტანური აბორტი
-	<b>Syn:</b>
-	<a href="premature delivery">premature delivery</a>, <a href="miscarriage">miscarriage</a>
-	2.
-	<span style="color:#fa8d1c;font-weight:bold">შესაზარობა</span>, <span style="color:#fa8d1c;font-weight:bold">საზარელობა</span>, <span style="color:#fa8d1c;font-weight:bold">სიმახინჯე</span>; <span style="color:#fa8d1c;font-weight:bold">დღენაკლული</span> <i style="color:DodgerBlue">(ბავშვი)</i>, <span style="color:#fa8d1c;font-weight:bold">მახინჯი</span>, <span style="color:#fa8d1c;font-weight:bold">გონჯი</span> <i style="color:DodgerBlue">(ბავშვი)</i>
-	His feet are monstrous abortion -- მისი ფეხები საშინელი სიმახინჯეა.
-	<b>Syn:</b>
-	<a href="monstrosity">monstrosity</a>
-	3.
-	<span style="color:#fa8d1c;font-weight:bold">მარცხი</span>, <span style="color:#fa8d1c;font-weight:bold">წარუმატებლობა</span>
-	<b>Syn:</b>
-	<a href="failure">failure</a>
-	4.
-	<i style="color:DodgerBlue"><b>ბიოლ.</b></i> <span style="color:#fa8d1c;font-weight:bold">ორგანოს განუვითარებლობა</span>
-	5.
-	<i style="color:DodgerBlue"><b>მედ.</b></i> <span style="color:#fa8d1c;font-weight:bold">დაავადების განვითარების შეჩერება საწყის სტადიაზე</span>
-	6.
-	<i style="color:DodgerBlue"><b>ტექ.</b></i> <span style="color:#fa8d1c;font-weight:bold">ავარიული შეჩერება, დასრულება, შეწყვეტა</span> <i style="color:DodgerBlue"><b>(ცდების, ფრენის, რეიმეს გაშვების და ა.შ.)</b></i>
-</ar>
-<ar>
 	<k>about</k>
 </ar>
+
 <ar>
 	<k>above</k>
 </ar>
+
 <ar>
 	<k>abroad</k>
 </ar>
+
 <ar>
 	<k>absence</k>
 </ar>
+
 <ar>
 	<k>absolute</k>
 </ar>
+
 <ar>
 	<k>absolutely</k>
 </ar>
+
 <ar>
 	<k>absorb</k>
 </ar>
+
 <ar>
 	<k>abuse</k>
 </ar>
+
 <ar>
 	<k>academic</k>
 </ar>
+
 <ar>
 	<k>accept</k>
 </ar>
+
 <ar>
 	<k>access</k>
 </ar>
+
 <ar>
 	<k>accident</k>
 </ar>
+
 <ar>
 	<k>accompany</k>
 </ar>
+
 <ar>
 	<k>accomplish</k>
 </ar>
+
 <ar>
 	<k>according</k>
 </ar>
+
 <ar>
 	<k>account</k>
 </ar>
+
 <ar>
 	<k>accurate</k>
 </ar>
+
 <ar>
 	<k>accuse</k>
 </ar>
+
 <ar>
 	<k>achieve</k>
 	[əˈʧiv] [ა'ჩივ]
@@ -272,820 +264,819 @@
 		<b>Syn</b>
 		<a href="bword:accomplish">accomplish</a>
 </ar>
+
 <ar>
 	<k>achievement</k>
 </ar>
+
 <ar>
 	<k>acid</k>
 </ar>
+
 <ar>
 	<k>acknowledge</k>
 </ar>
+
 <ar>
 	<k>acquire</k>
 </ar>
+
 <ar>
 	<k>across</k>
 </ar>
+
 <ar>
 	<k>act</k>
 </ar>
+
 <ar>
 	<k>action</k>
 </ar>
+
 <ar>
 	<k>active</k>
 </ar>
+
 <ar>
 	<k>activist</k>
 </ar>
+
 <ar>
 	<k>activity</k>
 </ar>
+
 <ar>
 	<k>actor</k>
 </ar>
+
 <ar>
 	<k>actress</k>
 </ar>
+
 <ar>
 	<k>actual</k>
 </ar>
+
 <ar>
 	<k>actually</k>
 </ar>
+
 <ar>
 	<k>ad</k>
 </ar>
+
 <ar>
 	<k>adapt</k>
 </ar>
+
 <ar>
 	<k>add</k>
 </ar>
+
 <ar>
 	<k>addition</k>
 </ar>
+
 <ar>
 	<k>additional</k>
 </ar>
+
 <ar>
 	<k>address</k>
 </ar>
+
 <ar>
 	<k>adequate</k>
 </ar>
+
 <ar>
 	<k>adjust</k>
 </ar>
+
 <ar>
 	<k>adjustment</k>
 </ar>
+
 <ar>
 	<k>addministration</k>
 </ar>
+
 <ar>
 	<k>administrator</k>
 </ar>
+
 <ar>
 	<k>admire</k>
 </ar>
+
 <ar>
 	<k>addmission</k>
 </ar>
+
 <ar>
 	<k>admit</k>
 </ar>
+
+<ar>
+	<k>adlolescence</k>
+	მოზარდობა, მოზარდობის ასაკი
+	<p></p>
+</ar>
+
 <ar>
 	<k>adolescent</k>
 </ar>
+
 <ar>
 	<k>adopt</k>
 </ar>
+
 <ar>
 	<k>adult</k>
 </ar>
+
 <ar>
 	<k>advance</k>
 </ar>
+
 <ar>
 	<k>advanced</k>
 </ar>
+
 <ar>
 	<k>advantage</k>
 </ar>
+
 <ar>
 	<k>adventure</k>
 </ar>
+
 <ar>
 	<k>advertising</k>
 </ar>
+
 <ar>
 	<k>advice</k>
 </ar>
+
 <ar>
 	<k>advise</k>
 </ar>
+
 <ar>
 	<k>adviser</k>
 </ar>
+
 <ar>
 	<k>advocate</k>
 </ar>
+
 <ar>
 	<k>affair</k>
 </ar>
+
 <ar>
 	<k>affect</k>
 </ar>
+
 <ar>
 	<k>afford</k>
 </ar>
+
 <ar>
 	<k>afraid</k>
 </ar>
+
 <ar>
 	<k>African</k>
 </ar>
+
 <ar>
 	<k>African-American</k>
 </ar>
+
 <ar>
 	<k>after</k>
 </ar>
+
 <ar>
 	<k>afternoon</k>
 </ar>
+
 <ar>
 	<k>again</k>
 </ar>
+
 <ar>
 	<k>against</k>
 </ar>
+
 <ar>
 	<k>age</k>
 </ar>
+
 <ar>
 	<k>agency</k>
 </ar>
+
 <ar>
 	<k>agenda</k>
 </ar>
+
 <ar>
 	<k>agent</k>
 </ar>
+
 <ar>
 	<k>aggressive</k>
 </ar>
+
 <ar>
 	<k>ago</k>
 </ar>
+
 <ar>
 	<k>agree</k>
 </ar>
+
 <ar>
 	<k>agreement</k>
 </ar>
+
 <ar>
 	<k>agricultural</k>
 </ar>
+
 <ar>
 	<k>ah</k>
 </ar>
+
 <ar>
 	<k>ahead</k>
 </ar>
+
 <ar>
 	<k>aid</k>
 </ar>
+
 <ar>
 	<k>aide</k>
 </ar>
+
 <ar>
 	<k>AIDS</k>
 </ar>
+
 <ar>
 	<k>aim</k>
 </ar>
+
 <ar>
 	<k>air</k>
 </ar>
+
 <ar>
 	<k>aircraft</k>
 </ar>
+
 <ar>
 	<k>airlint</k>
 </ar>
+
 <ar>
 	<k>airplane</k>
 </ar>
+
 <ar>
 	<k>airport</k>
 </ar>
+
 <ar>
 	<k>album</k>
 </ar>
+
 <ar>
 	<k>alcohol</k>
 </ar>
+
 <ar>
 	<k>alive</k>
 </ar>
+
 <ar>
 	<k>all</k>
 </ar>
+
 <ar>
 	<k>alliance</k>
 </ar>
+
 <ar>
 	<k>allow</k>
 </ar>
+
 <ar>
 	<k>ally</k>
 </ar>
+
 <ar>
 	<k>almost</k>
 </ar>
+
 <ar>
 	<k>alone</k>
 </ar>
+
 <ar>
 	<k>along</k>
 </ar>
+
 <ar>
 	<k>already</k>
 </ar>
+
 <ar>
 	<k>also</k>
 </ar>
+
 <ar>
 	<k>alter</k>
 </ar>
+
 <ar>
 	<k>alternative</k>
 </ar>
+
 <ar>
 	<k>although</k>
 </ar>
+
 <ar>
 	<k>always</k>
 </ar>
+
 <ar>
 	<k>AM</k>
 </ar>
+
 <ar>
 	<k>amazing</k>
 </ar>
+
 <ar>
 	<k>American</k>
 </ar>
+
 <ar>
 	<k>among</k>
 </ar>
+
 <ar>
 	<k>amount</k>
 </ar>
+
 <ar>
 	<k>analysis</k>
 </ar>
+
 <ar>
 	<k>analyst</k>
 </ar>
+
 <ar>
 	<k>analyze</k>
 </ar>
+
 <ar>
 	<k>ancient</k>
 </ar>
+
 <ar>
 	<k>and</k>
 	კავშირი „და“, მაგ. cat <b>and</b> dog. კატა <b>და</b> ძაღლი.
 </ar>
+
 <ar>
 	<k>anger</k>
 </ar>
+
 <ar>
 	<k>angle</k>
 </ar>
+
 <ar>
 	<k>angry</k>
 </ar>
+
 <ar>
 	<k>animal</k>
 </ar>
+
 <ar>
 	<k>anniversary</k>
 </ar>
+
 <ar>
 	<k>announce</k>
-	[əˈnauns] [ე(ა)'ნაუნს]
-	<i style="color:Green;">v.</i> <i style="color:DodgerBlue;">ზმნა</i>
-	1) <span style="color:#fa8d1c;font-weight:bold">გამოცხადება</span>, <span style="color:#fa8d1c;font-weight:bold">რაიმე გზით შეტყობინება</span>, <span style="color:#fa8d1c;font-weight:bold">რაიმე ინფორმაციაზე მინიშნება</span>, <span style="color:#fa8d1c;font-weight:bold">განცხადების გაკეთება</span> (ვთქ. <span style="color:#fa8d1c;font-weight:bold">განაცხადა</span>), <span style="color:#fa8d1c;font-weight:bold">გაცხადება</span> (<span style="color:#fa8d1c;font-weight:bold">ვაცხადებ</span>, <span style="color:#fa8d1c;font-weight:bold">აცხადებ</span>, <span style="color:#fa8d1c;font-weight:bold">აცხადებს</span> და ა.შ.)
-	He announced the fact, but gave no details. -- მან უბრალოდ თქვა რაც მოხდა, მაგრამ წვრილმანები (დეტალები) არ მოუყოლია.
-	She could not live without announcing herself to him as his mother. -- ის ვერ იცოცხლებდა, რომ არ ეთქვა მისთვის, რომ მისი დედაა.
-	It is my pleasure to announce that... -- მაქვს სიამოვნება შეგატყობინოთ, რომ...
-	<b>Syn:</b>
-	<a href="declare">declare</a>
-	2) <span style="color:#fa8d1c;font-weight:bold">გამოცემა</span>, <span style="color:#fa8d1c;font-weight:bold">გამოშვება</span>
-	<b>Syn:</b>
-	<a href="publish">publish</a>
-	3) <span style="color:#fa8d1c;font-weight:bold">მოხსენება</span>, <span style="color:#fa8d1c;font-weight:bold">თქმა</span> <i style="color:DodgerBlue"><b>(ვინმესთვის რამეს მოხსენება, ვთქვათ სტუმრების მოსვლის შესახებ ვინმესთვის მოხსენება, ვინმესთვის თქმა)</b></i>
 </ar>
+
 <ar>
 	<k>annual</k>
 </ar>
+
 <ar>
 	<k>another</k>
 </ar>
+
 <ar>
 	<k>answer</k>
 </ar>
+
 <ar>
 	<k>anticipate</k>
 </ar>
+
 <ar>
 	<k>anxiety</k>
 </ar>
+
 <ar>
 	<k>any</k>
 </ar>
+
 <ar>
 	<k>anybody</k>
 </ar>
+
 <ar>
 	<k>anymore</k>
 </ar>
+
 <ar>
 	<k>anyone</k>
 </ar>
+
 <ar>
 	<k>anything</k>
 </ar>
+
 <ar>
 	<k>anyway</k>
 </ar>
+
 <ar>
 	<k>anywhere</k>
 </ar>
+
 <ar>
 	<k>apart</k>
 </ar>
+
 <ar>
 	<k>apartment</k>
 </ar>
+
 <ar>
 	<k>apparent</k>
 </ar>
+
 <ar>
 	<k>apparently</k>
 </ar>
+
 <ar>
 	<k>appeal</k>
 </ar>
+
 <ar>
 	<k>appear</k>
 </ar>
 <ar>
 	<k>appearance</k>
 </ar>
+
 <ar>
 	<k>apple</k>
 </ar>
+
 <ar>
 	<k>application</k>
 </ar>
+
 <ar>
 	<k>apply</k>
 </ar>
+
 <ar>
 	<k>appoint</k>
 </ar>
+
 <ar>
 	<k>appointment</k>
 </ar>
+
 <ar>
 	<k>appreciate</k>
 </ar>
+
 <ar>
 	<k>approach</k>
 </ar>
+
 <ar>
 	<k>appropriate</k>
 </ar>
+
 <ar>
 	<k>approval</k>
 </ar>
+
 <ar>
 	<k>approve</k>
 </ar>
+
 <ar>
 	<k>approximately</k>
 </ar>
+
 <ar>
 	<k>Arab</k>
 	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
 	არაბი.
 </ar>
+
 <ar>
 	<k>architect</k>
 </ar>
+
 <ar>
 	<k>area</k>
 </ar>
+
 <ar>
 	<k>argue</k>
 </ar>
+
 <ar>
 	<k>argument</k>
 </ar>
+
 <ar>
 	<k>arise</k>
 </ar>
+
 <ar>
 	<k>arm</k>
 </ar>
+
 <ar>
 	<k>armed</k>
 </ar>
-<ar>
-	<k></k>
-</ar>
+
 <ar>
 	<k>army</k>
 </ar>
+
 <ar>
 	<k>around</k>
 </ar>
+
 <ar>
 	<k>arrange</k>
 </ar>
+
 <ar>
 	<k>arrangement</k>
 </ar>
+
 <ar>
 	<k>arrest</k>
 </ar>
+
 <ar>
 	<k>arrival</k>
 </ar>
+
 <ar>
 	<k>arrive</k>
 </ar>
+
 <ar>
 	<k>art</k>
 </ar>
+
 <ar>
 	<k>article</k>
 </ar>
+
 <ar>
 	<k>artist</k>
 </ar>
+
 <ar>
 	<k>artistic</k>
 </ar>
+
 <ar>
 	<k>as</k>
 </ar>
+
 <ar>
 	<k>Asian</k>
 </ar>
+
 <ar>
 	<k></k>
 </ar>
+
 <ar>
 	<k></k>
 </ar>
+
 <ar>
 	<k>aside</k>
 </ar>
+
 <ar>
 	<k>ask</k>
 </ar>
+
 <ar>
 	<k>asleep</k>
 </ar>
+
 <ar>
 	<k>aspect</k>
 </ar>
+
 <ar>
 	<k>assault</k>
 </ar>
+
 <ar>
 	<k>assert</k>
-	[əˈsət] [ა'სა(რ)თ]
-	<i style="color:Green;">v.</i> <i style="color:DodgerBlue;">ზმნა</i>
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">მტკიცება</span> (<span style="color:#fa8d1c;font-weight:bold">რაიმეს მტკიცება</span>), <span style="color:#fa8d1c;font-weight:bold">გაცხადება</span>, <span style="color:#fa8d1c;font-weight:bold">განცხადების გაკეთება</span>, <span style="color:#fa8d1c;font-weight:bold">გამოცხადება</span>, <span style="color:#fa8d1c;font-weight:bold">დეკლარირება</span>
-	She asserted that she was innocent. -- მან განაცხადა რომ ის უმწიკვლო (უცოდველი) იყო.
-	<b>Syn:</b>
-	<a href="affirm">affirm</a>, <a href="allege">allege</a>, <a href="asseverate">asseverate</a>, <a href="aver">aver</a>, <a href="avow">avow</a>, <a href="maintain">maintain</a>, <a href="testify">testify</a>
-	<b>Ant:</b>
-	<a href="contradict">contradict</a>, <a href="controvert">controvert</a>, <a href="demur">demur</a>, <a href="dispute">dispute</a>, <a href="doubt">doubt</a>, <a href="refute">refute</a>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">უზრუნველყოფა</span>, <span style="color:#fa8d1c;font-weight:bold">დაცვა</span> <i style="color:DodgerBlue"><b>(მაგ. საკუთარი ინტერესების, უფლებების და ა.შ.)</b></i>, <span style="color:#fa8d1c;font-weight:bold">დამტკიცება</span> <i style="color:DodgerBlue"><b>(რაიმეს დამტკიცება)</b></i>, <span style="color:#fa8d1c;font-weight:bold">მტკიცება</span> <i style="color:DodgerBlue"><b>(რაიმეს მტკიცება)</b></i>
-	assert one's rights, assert oneself -- საკუთარი უფლებების დაცვა.
-	<b>Syn:</b>
-	<a href="uphold">uphold</a>, <a href="defend">defend</a>, <a href="insist">insist</a>
-	3)
-	<i style="color:DodgerBlue"><b>ქცევა, თავისი ხასიათით მტკიცე, თავდაჯერებული და კარგად გააზრებული, რომლის მიზანია სხვებმა ყურადღება მიაქციონ, თქვენს აზრებს (იდეებს) და უფლებებს</b></i>
-</ar>
-
-<ar>
-	<k>assertion</k>
-	[əˈsəʃ(ə)n] [ა'საშ(ა)ნ]
-	<i style="color:Green;">n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">მტკიცება</span>, <span style="color:#fa8d1c;font-weight:bold">განცხადება</span>
-	<i style="color:DodgerBlue"><b>განცხადება ან მტკიცება, რომლის სიმართლეში/ჭეშმარიტებაში დარწმუნებული ხართ</b></i>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">პრეტენზია</span>, <span style="color:#fa8d1c;font-weight:bold">მტკიცება</span> რამეზე უფლების გაცხადების, რაიმეს მიჩემების, დაჩემების მიზნით.
-	<b>Syn:</b>
-	<a href="claim">claim</a>, <a href="pretension">pretension</a>
-	3)
-	<i style="color:Green;"><b>ლოგ.</b></i>
-	<span style="color:#fa8d1c;font-weight:bold">მსჯელობა</span>
-</ar>
-
-<ar>
-	<k>assertive</k>
-	[əˈsətɪv] [ა'სატივ]
-	<i style="color:Green;">adj.</i> <i style="color:DodgerBlue;">ზედსართავი სახელი</i>
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">პოზიტიური</span>, <span style="color:#fa8d1c;font-weight:bold">დადებითი</span>, <span style="color:#fa8d1c;font-weight:bold">მტკიცებითი</span>, <span style="color:#fa8d1c;font-weight:bold">მტკიცე</span>, <span style="color:#fa8d1c;font-weight:bold">დაჟინებული</span>
-	in an assertive form -- მტკიცებით ფორმაში
-	You should try and be more assertive -- შენ უნდა სცადო [რაიმეს გაკეთება] და იყო მეტად მტკიცე (მეტად დაჟინებული)
-	<b>Syn:</b>
-	<a href="affirmative">affirmative</a>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">აგრესიული</span>, <span style="color:#fa8d1c;font-weight:bold">უსაზღვროდ დაჟინებული</span>, <span style="color:#fa8d1c;font-weight:bold">შემტევი</span>, <span style="color:#fa8d1c;font-weight:bold">მიმწოლი</span>; <span style="color:#fa8d1c;font-weight:bold">თვითდაჯერებული</span>
-	<b>Syn:</b>
-	<a href="aggressive">aggressive</a>
 </ar>
 
 <ar>
 	<k>assess</k>
 </ar>
+
 <ar>
 	<k>assessment</k>
 </ar>
+
 <ar>
 	<k>asset</k>
 </ar>
+
 <ar>
 	<k>assign</k>
 </ar>
+
 <ar>
 	<k>assignment</k>
 </ar>
+
 <ar>
 	<k>assist</k>
 </ar>
+
 <ar>
 	<k>assistance</k>
 </ar>
+
 <ar>
 	<k>assistant</k>
 </ar>
+
 <ar>
 	<k>associate</k>
 </ar>
+
 <ar>
 	<k>association</k>
 </ar>
+
 <ar>
 	<k>assume</k>
 </ar>
+
 <ar>
 	<k>assumption</k>
 </ar>
+
 <ar>
 	<k>assure</k>
 </ar>
+
 <ar>
 	<k>at</k>
 </ar>
+
 <ar>
 	<k>athlete</k>
 </ar>
+
 <ar>
 	<k>athletic</k>
 </ar>
+
 <ar>
 	<k>atmosphere</k>
 </ar>
+
 <ar>
 	<k>attach</k>
 </ar>
+
 <ar>
 	<k>attack</k>
 </ar>
+
 <ar>
 	<k>attempt</k>
 </ar>
+
 <ar>
 	<k>attend</k>
 </ar>
+
 <ar>
 	<k>attention</k>
 </ar>
+
 <ar>
 	<k>attitude</k>
 </ar>
+
 <ar>
 	<k>attorney</k>
 </ar>
+
 <ar>
 	<k>attract</k>
 </ar>
+
 <ar>
 	<k>attractive</k>
 </ar>
+
 <ar>
 	<k>attribute</k>
 </ar>
+
 <ar>
 	<k>audience</k>
-	[ˈɔdjəns] ['ოდიანს]
-	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">პუბლიკა</span>; <span style="color:#fa8d1c;font-weight:bold">მაყურებელი</span>; <span style="color:#fa8d1c;font-weight:bold">სახზოგადოება</span> <i style="color:DodgerBlue"><b>(გარკვეულ კონტექსტში)</b></i>
-	to attract, drow an audience -- პუბლიკის (საზოგადოწბის) ყურადღების მიქცევა
-	to electrify, grip, move, stir, sway an audience -- პუბლიკის (საზოგადოების) “აგდება“
-	appreciative audience -- მადლიერი აუდიტორია
-	enthusiastic, responsive audience -- ატიური აუდიტორია
-	cold, passive, unresponsive audience -- პასიური აუდიტორია
-	sympathetic audience -- თანამგრძნობი, გულშემატკივარი პუბლიკა
-	unsympathetic audience -- არაგულშემატკივარი, არათანამგრძნობი, გულგრილი პუბლიკა
-	These teachers easily found attentive audience. -- ამ მასწავლებლებმა ადვილად, მალევე იპოვეს მადლიერი მსმენელები.
-	<b>Syn:</b>
-	<a href="public">public</a>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">რადიომსმენელი</span>; <span style="color:#fa8d1c;font-weight:bold">ტელემაყურებელი</span>
-	The audience for broadcast entertainment has already far outstripped in size any other audience in the world. -- რადიოს მუსიკალურ-გასართობი პროგრამების მსმენელების რაოდენობამ გადააჭარბა ყველა სხვა სახის აუდიტორიის რაოდენობას მსოფლიოში.
-	3)
-	<span style="color:#fa8d1c;font-weight:bold">აუდიენცია</span> <i style="color:DodgerBlue"><b>(of, with - ვინმესთან)</b></i>
-	to give an audience -- აუდიენციის უფლების მიცემა; მოსმენა
-</ar>
-<ar>
-	<k>author</k>
-</ar>
-<ar>
-	<k>authority</k>
-</ar>
-<ar>
-	<k>auto</k>
-</ar>
-<ar>
-	<k>available</k>
-</ar>
-<ar>
-	<k>average</k>
-</ar>
-<ar>
-	<k>avoid</k>
-</ar>
-<ar>
-	<k>award</k>
-</ar>
-<ar>
-	<k>aware</k>
-</ar>
-<ar>
-	<k>awareness</k>
-</ar>
-<ar>
-	<k>away</k>
-</ar>
-<ar>
-	<k>awful</k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
 </ar>
 
 <ar>
-	<k></k>
+	<k>author</k>
 </ar>
+
 <ar>
-	<k>abacus</k>
+	<k>authority</k>
 </ar>
+
+<ar>
+	<k>auto</k>
+</ar>
+
+<ar>
+	<k>available</k>
+</ar>
+
+<ar>
+	<k>average</k>
+</ar>
+
+<ar>
+	<k>avoid</k>
+</ar>
+
+<ar>
+	<k>award</k>
+</ar>
+
+<ar>
+	<k>aware</k>
+</ar>
+
+<ar>
+	<k>awareness</k>
+</ar>
+
+<ar>
+	<k>away</k>
+</ar>
+
+<ar>
+	<k>awful</k>
+</ar>
+
+
+
+
+
 <ar>
 	<k>B</k><k>b</k>
 </ar>
@@ -1094,139 +1085,28 @@
 	v. <i style="color:DodgerBlue;">ზმნა</i>
 	ყოფნა
 </ar>
-
-
-<ar>
-	<k>best</k>
-	[best] [ბესთ]
-	<b>1.</b> <i style="color:Green;">adj.</i> <i style="color:DodgerBlue;">ზედსართავი სახელი</i>
-	<i style="color:Green;"><b>აღმატებული ხარისხი</b></i> <a href="good"><i style="color:Blue;"><b>good</b></i></a>-თვის
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">საუკეთესო, ყველაზე კარგი</span>
-	<i style="color:DodgerBlue"><b>(მსგავს ნივთებს, საგნებს, ადამიანებს, მოვლენებს და ა.შ. შორის, სრულიად სხვადასხვა მიზეზით, სხვადასხვა საფუძვლით)</b></i>
-	the best people in the town -- საუკეთესო ადამიანები ქალაქში.
-	the best years of my life -- ჩემი ცხოვრების საუკეთესო წლები.
-	the best way to obtain a knowledge -- საუკეთესო, ყველაზე საიმედო გზა მიიღო ცოდნა.
-	Wich of your wives is best to you? -- შენი ცოლებიდან რომელი მოგწონს ყველაზე მეტად? (რომელია ყველაზე კარგი?)
-	She makes the best appearance possible -- ის (ქალი) ცდილობს გამოიყურებოდეს რაც შეიძლება კარგად.
-	Miss X equalled the world's record and beat Miss Y British best -- მის X-მა გაიმეორა და გააუმჯობესა მის Y-ის ბრიტანული საუკეთესო რეკორდი.
-	2)
-	<i style="color:DodgerBlue"><b>გადატან.</b></i> <span style="color:#fa8d1c;font-weight:bold">გამოხატავს ობიექტის აბსოლიტურ მნიშვნელობას, ხარისხს, ხასიათს.</span>
-	She is my best-girl -- ის ჩემი უსაყვარლესი გოგოა.
-	I wish we could be best friends -- ჩვენ შეგვეძლო ვყოფილიყავით საუკეთესო მეგობრები.
-	You are the best liar! -- აშკარა (საშინელი, გამოუსწორებელი) მატყუარა ხარ(თ)!
-	3)
-	<span style="color:#fa8d1c;font-weight:bold">დიდი (ნაწილი)</span> <i style="color:DodgerBlue"><b>სიტყვათშეთანხმებაში</b></i> <span style="color:#fa8d1c;font-weight:bold">best part</span>
-	It rained for the best part of their vacation -- მათი შვებულების უმეტეს დროს წვიმდა.
-	the best part of the week -- კვირის დიდი ნაწილი.
-	<b>.</b>
-	- <a href="do one's best">do one's best</a>
-	<b>..</b>
-	All the best! -- ყველაფერ კარგს (გაუმარჯოს)! ; ყველაფერი კარგს (გისურვებ)!
-	to put one's best foot / leg foremost -- ყველაფერი (ვინმესგან) დამოკიდებულის გაკეთება.
-	to turn the best side outward -- მცდელობა გამოიყურებოდე რაც შეიძლება კარგად.
-	<b>2.</b> <i style="color:Green;">n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	1)
-	ა) <span style="color:#fa8d1c;font-weight:bold">ყველაზე კარგი</span>; <span style="color:#fa8d1c;font-weight:bold">საუკეთესო ნაწილი</span> <i style="color:DodgerBlue"><b>(რაიმეს მდგომარეობა)</b></i>
-	if the best happend -- საუკეთესო შემთხვევაში.
-	She is not at her best in the morning. -- მას (ქალს) დილიდან სულ მთლად კარგი განწყობა არ აქვს.
-	for the best -- უკეთესობისთვის.
-	It turned out for the best -- ყველაფერი უკეთესად შემოტრიალდა.
-	in the best of -- საუკეთესო მდგომარეობაში.
-	He's not in the best of health -- ის (კაცი) თავს ვერ გრძნობს საუკეთესოდ.
-	at best -- უკეთეს შემთხვევაში.
-	one's level best -- (ვინმეს) შესაძლებლობების ზღვარი.
-	to get the best of smb. -- რაიმედან საუკეთესოს მიღება.
-	to look one's best -- გამოიყურებოდე საუკეთესოდ.
-	ბ) <i style="color:DodgerBlue"><b>განსაკ.</b></i> <span style="color:#fa8d1c;font-weight:bold">სადარბაზო სამოსი, საუკეთესო სამოსი</span>
-	Sunday best -- საღამოს ტუალეტი(სამოსი)
-</ar> 
-
-
-
-<ar>
-	<k>better</k>
-	[ˈbetə] ['ბეთა]
-	<b>I.</b> <i style="color:Green;">n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	<span style="color:#fa8d1c;font-weight:bold">ის ვინც სანაძლეოებს დებს</span>
-	<b>II.</b>
-	<b>1.</b> <i style="color:Green;">adj.</i> <i style="color:DodgerBlue;">ზედსართავი სახელი</i>
-	1)
-	<i style="color:Green;"><b>შედარებითი ხარისხი</b></i> <a href="good"><i style="color:Blue;"><b>good</b></i></a>-თვის <i style="color:Blue;"><b>1.</b></i>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">უკეთესი, საუკეთესო, უმაღლესი</span>
-	better feelings -- საუკეთესო გრძნობები
-	<b>Syn:</b>
-	<a href="best">best</a>
-	3)
-	<span style="color:#fa8d1c;font-weight:bold">მეტად შესაფერისი, უფრო შესაფერისი</span>
-	4)
-	<span style="color:#fa8d1c;font-weight:bold">უკეთესად (თავის უკეთესად გრძნობა)</span>
-	I am better. -- თავს უკეთესად ვგრძნობ.
-	5)
-	<span style="color:#fa8d1c;font-weight:bold">უდიდესი, უმეტესი, უფრო დიდი</span>
-	the better part -- დიდი ნაწილი; უმეტესობა
-	<b>..</b>
-	to be better than one's word -- დაპირებულზე (შეპირებულზე) მეტის გაკეთება
-	- <a href="be better off">be better off</a>
-	- <a href="better hand">better hand</a>
-	- <a href="the better half">the better half</a>
-	<b>2.</b> <i style="color:Green;">n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	<span style="color:#fa8d1c;font-weight:bold">უკეთესი, უმჯობესი</span>
-	- <a href="get the better of">get the better of</a>
-	- <a href="one's betters">one's betters</a>
-	<b>..</b>
-	for better for worse -- რაც არ უნდა მოხდეს.
-	no better than a fool -- უბრალოდ სულელი; სულელი
-	<b>3.</b> <i style="color:Green;">adv.</i> <i style="color:DodgerBlue;">ზმნიზედა</i>
-	1)
-	<i style="color:Green;"><b>შედარებითი ხარისხი</b></i> <a href="well"><i style="color:Blue;"><b>well</b></i></a>-თვის <i style="color:Blue;"><b>II 1.</b></i>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">უკეთესად, უკეთ, უმჯობესად</span>
-	He writes better than I do it. -- ის ჩემზე უკეთესად წერს.
-	3)
-	<span style="color:#fa8d1c;font-weight:bold">მეტად, უმეტესწილად, უმეტესად</span>
-	4)
-	<span style="color:#fa8d1c;font-weight:bold">უფრო სრულად, უფრო ძლიერად</span>
-	<b>..</b>
-	all the better -- მით უკეთესი
-	so much the better -- მით უკეთესი
-	I know better -- მე უკეთ ვიცი; ვერ მომატყუებ
-	none the better (for) -- არაფრით უკეთესი
-	you'd be all the better (for) -- თქენ ხელს არ შეგიშლიდათ...
-	you'd better belive it <i style="color:Green;">ამერ.</i>; <i style="color:Green;">სასაუბრო</i> -- შეგიძლიათ იყოთ დარწმუნენულები
-	- <a href="never better">never better</a>
-	<b>4.</b> <i style="color:Green;">v.</i> <i style="color:DodgerBlue;">ზმნა</i>
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">გაუმჯობესება</span>; <span style="color:#fa8d1c;font-weight:bold">გასწორება, შესორება, დახვეწა, გაუჯობესება, სრულყოფა</span>
-	You can't better that. -- თქვენ არ შეგიძლიათ ეს გამოასწოროთ.
-	to better oneself -- დაწინაურება <i style="color:DodgerBlue">(სამსახურეობრივი)</i>
-	<b>Syn:</b>
-	<a href="make better">make better</a>, <a href="amend">amend</a>, <a href="ameliorate">ameliorate</a>, <a href="improve">improve</a>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">უპირატესობის ქონა, აღმატებატებულობა</span> <i style="color:DodgerBlue;">(რამეზე, ვინმეზე)</i>
-	<b>Syn:</b>
-	<a href="surpass">surpass</a>, <a href="excel">excel</a>
-	3)
-	<span style="color:#fa8d1c;font-weight:bold">გაუმჯობესება, გაზრდა</span>
-	The day has bettered. -- დღე გაიზარდა
-	<b>Syn:</b>
-	<a href="grow">grow</a>, <a href="improve">improve</a>, <a href="increase">increase</a>
-</ar>
-
-
-
-
 <ar>
 	<k>BST</k>
 	<i style="color:Green;">შემოკ.</i><i style="color:DodgerBlue;"> British Standard Time, British Summer Time - 1968 წლამდე.</i>
 	ბრიტანული, ინგლისის სტანდარტული დრო.
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 </ar>
+
+<ar>
+	<k>buffer zone</k>
+	ბუფერული ზონა
+	<p></p>
+</ar>
+
+
+
+
+
 <ar>
 	<k>C</k><k>c</k>
 	ინგლისური ანბანის მესამე (3) ასო.
 </ar>
+
 <ar>
 	<k>CET</k>
 	<i style="color:Green;">შემოკ.</i><i style="color:DodgerBlue;"> Centeral European Time</i>
@@ -1234,69 +1114,22 @@
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 </ar>
 
-
-
 <ar>
-	<k>consumption</k>
-	[kənˈsʌmpʃ(ə)n][ქან'სამპშ(ა)ნ]
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">მოხმარება</span>; <span style="color:#fa8d1c;font-weight:bold">ხარჯი</span>, <span style="color:#fa8d1c;font-weight:bold">გასავალი</span>
-	- <a href="mass consumption">mass consumpiton</a>
-	<i style="color:DodgerBlue"><b>კომპ.</b></i>
-	- <a href="power consumption">power consumpiton</a>
-	2)
-	<i style="color:DodgerBlue"><b>ეკონ.</b></i> <span style="color:#fa8d1c;font-weight:bold">მოხმარების სფერო</span>
-	3)
-	ა) <span style="color:#fa8d1c;font-weight:bold">ტუბერკულოზი</span>, <span style="color:#fa8d1c;font-weight:bold">ჭლექი</span>
-	ბ) <span style="color:#fa8d1c;font-weight:bold">ორგანიზმის განლევა, გამოფიტვა, დასუსტება, დაუძლურება</span> <i style="color:DodgerBlue"><b>(განსაკუთრებით ჭლექისგან)</b></i>
+	<k>climatic zone</k>
+	კლიმატური სარტყელი.
+	<p></p>
 </ar>
 
 <ar>
-	<k>correspond</k>
+	<k>combat zone</k>
+	ბრძოლის ველი; ბრძოლის ზონა.
+	<p></p>
 </ar>
 
 <ar>
-	<k>CPA</k>
-	[si'pi'ei] [სი'ფი'ეი]
-	<i style="color:Green;">შემოკ.</i>
-	<i style="color:Green;">აბრევიატურა</i>
-	I.
-	<i style="color:DodgerBlue">Canadian Pacific Airlines</i>
-	<span style="color:#fa8d1c;font-weight:bold">"ქანადიან ფაციfიქ აირლაინს"</span> <i style="color:DodgerBlue"><b>(კანადის წყნარიოკეანის ავიახაზები)</b></i>
-	II.
-	<i style="color:DodgerBlue">Certified Associate Programmer</i>
-	<span style="color:#fa8d1c;font-weight:bold">სერთიფიცირებული ასოცირებული პროგრამისტი</span>
-	III.
-	<i style="color:DodgerBlue">Certified public accountant</i>
-	<span style="color:#fa8d1c;font-weight:bold">სერთიფიცირებული, დიპლომირებული ბუღალტერი</span> <i style="color:DodgerBlue;"><b>(აქვს უფლება იყოს დამოუკიდებელი აუდიტორი, ბუღალტერი-რევიზორი)</b></i>
-	IV.
-	<i style="color:DodgerBlue">Commonwealth Parliamentary Association</i>
-	<span style="color:#fa8d1c;font-weight:bold">ერთა თანამეგობრობის წევრი ქვეყნების პარლამენტარების ასოციაცია</span>
-	V.
-	<i style="color:DodgerBlue">Consumer Protection Agency</i>
-	<span style="color:#fa8d1c;font-weight:bold">მომხმარებლების ინტერესების დაცვის სააგენტო</span>
-	VI.
-	<i style="color:DodgerBlue">Country Press Association</i>
-	<span style="color:#fa8d1c;font-weight:bold">პროფესიული ასოციაციების საბჭო (სათათბირო)</span>
-	VII.
-	<i style="color:DodgerBlue">Communist Party of Australia</i>
-	<span style="color:#fa8d1c;font-weight:bold">ავსტრალიის კომუნისტური პარტია</span>
-</ar>
-
-<ar>
-	<k>CPI</k>
-	[si'pi'ai] [სი'ფი'აი]
-	<i style="color:Green;">შემოკ.</i>
-	<i style="color:Green;">აბრევიატურა</i>
-	I.
-	<i style="color:DodgerBlue">Characters Per Inch</i>
-	სიმბოლოების რაოდენობა ერთ გოჯში (დიუმში)
-	II.
-	<i style="color:DodgerBlue">Common Programming Interface</i>
-	საერთო პროგრამული ინტერფეისი
-	III.
-	<i style="color:DodgerBlue">consumer price index</i>; =<i style="color:DodgerBlue">cpi</i>
-	სამომხმარებლო ფასების ინდექსი
+	<k>comfort zone</k>
+	კომფორტის ზონა
+	<p></p>
 </ar>
 
 <ar>
@@ -1306,30 +1139,36 @@
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 	2. ცენტრალური სარტყელის დრო. <i><b style="color:DodgerBlue">(ავსტრალიაში; +(9 საათი და 30 წუთი) გრინვიჩიდან)</b></i>
 </ar>
+
 <ar>
 	<k>CT</k>
 	1. = <i style="color:DodgerBlue;"><a href="CST">CST</a></i>
 	2. <i style="color:Green;">გეოგრ.; შემოკ.</i><i style="color:DodgerBlue;"> Connecticut</i>
 	კონექტიკუტი <i><b style="color:DodgerBlue">(შტატი აშშ-ში; საფოსტო შემოკლება)</b></i>
 </ar>
+
+
+
+
+
 <ar>
 	<k>D</k><k>d</k>
 	ინგლისური ანბანის მეოთხე (4) ასო.
 </ar>
 
-
+<ar>
+	<k>denger zone</k>
+	საშიში, სახიფათო ზონა.
+	<p></p>
+</ar>
 
 <ar>
-	<k>declare</k>
-	[dɪˈklɛə] [დი'ქლა(რ)]
-	<i>v.</i> <i style="color:DodgerBlue;">ზმნა</i>
-	1)
-	ა) <span style="color:#fa8d1c;font-weight:bold">გაცხადება</span>, <span style="color:#fa8d1c;font-weight:bold">გამოცხადება</span>
-	declare one's love -- სიყვარულის ახსნა.
-	declare war on -- ომის გამოცხადება (ვინმესთვის, რამესთვის)
-	<b>Syn:</b>
-	<a href="assert">assert</a>, <a href="proclaim">proclaim</a>
+	<k>demilitarized zone</k>
+	დემილიტარიზებული ზონა, დემილიტარიზებული ტერიტორია.
+	<p></p>
 </ar>
+
+
 
 
 
@@ -1346,36 +1185,9 @@
 </ar>
 
 <ar>
-	<k>embark</k>
-	[im'bɑ:k] [ი'მბა:ქ]; 	<i style="color:DodgerBlue">NAmE</i> [im'bɑ:rk] [ი'მბა:რქ]
-	<i>v.</i> <i style="color:DodgerBlue;">ზმნა</i> 
-	1)
-	ა) 
-	<span style="color:#fa8d1c;font-weight:bold">ჩატვირთვა</span> <i style="color:DodgerBlue"><b>(გემზე)</b></i>, <span style="color:#fa8d1c;font-weight:bold">ჩასხდომა</span> <i style="color:DodgerBlue"><b>(გემში)</b></i>, <span style="color:#fa8d1c;font-weight:bold">ასვლა</span> <i style="color:DodgerBlue"><b>(გემზე)</b></i>
-	ბ)
-	<span style="color:#fa8d1c;font-weight:bold">გემზე ასვლა გასამგზავრებლად</span> <i style="color:DodgerBlue"><b>(სადმე)</b></i>
-	I shall stay in the seaport overnight before embarking for the United States -- სანამ გემზე ავალ შეერთებულ შტატებში გასამგზავრებლად წინა ღამით პორტში გავჩერდები (წინა ღამეს პროტში გავათენებ)
-	გ)
-	<span style="color:#fa8d1c;font-weight:bold">დაწყება</span>; <span style="color:#fa8d1c;font-weight:bold">ჩართვა</span> <i style="color:DodgerBlue"><b>(საქმეში, ომში)</b></i>
-</ar>
-
-<ar>
-	<k>enhance</k>
-	[ın'hɑ:ns] [ინ'ჰა:ნს]; <i style="color:DodgerBlue">NAmE</i> [ın'hæns] [ინ'ჰ(ეა)ნს]
-	<i style="color:Green;">v.</i> <i style="color:DodgerBlue;">ზმნა</i>
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">გაზრდა</span>, <span style="color:#fa8d1c;font-weight:bold">გადიდება</span>, <span style="color:#fa8d1c;font-weight:bold">გამრავლება</span>, <span style="color:#fa8d1c;font-weight:bold">გაძლიერება</span>, <span style="color:#fa8d1c;font-weight:bold">გაუმჯობესება</span> <i style="color:DodgerBlue"><b>(განსაკ. რაიმეს ხარისხის, მნიშვნელობის, ფასეულობის, მიმზიდველობის)</b></i>
-	They'll be keen to enhance their reputation aboard. -- ისინი ძალიან მოინდომებენ გაიუმჯობესონ საკუთარი რეპუტაცია საზღვრებს გარეთ.
-	<b>Syn:</b>
-	<a href="heighten">heighten</a>, <a href="improve">improve</a>, <a href="increese">increese</a>, 2. <a href="intensify">intensify</a>, <a href="strengthen">strengthen</a>, <a href="reinforce">reinforce</a>
-	2)
-	ა)
-	<span style="color:#fa8d1c;font-weight:bold">გაზრდა</span> <i style="color:DodgerBlue"><b>(ფასის)</b></i>
-	ბ)
-	<span style="color:#fa8d1c;font-weight:bold">ფასის ზრდა</span> , <span style="color:#fa8d1c;font-weight:bold">გაძვირება</span> <i style="color:DodgerBlue"><b>(რაიმეს ფასის მომატება, ფასის ზრდა, გაძვირება)</b></i>
-	Their living expenses are constantly enhancing. -- მათი ცხოვრების ხარჯები მუდმივად იზრდება.
-	<b>Syn:</b>
-	<a href="increase">increase</a>, <a href="raise">raise</a>
+	<k>enterprise zone</k>
+	<i>ამერ.</i> ქალაქში მეწარმეთა ზონა, მეწარმეთა რაიონი.
+	<p></p>
 </ar>
 
 <ar>
@@ -1391,14 +1203,37 @@
 	2. <i style="color:Green;">შემოკ.</i><i style="color:DodgerBlue"> ExtraTerrestrial</i>
 	არამიწიერი
 </ar>
+
+
+
+
+
 <ar>
 	<k>F</k><k>f</k>
 	ინგლისური ანბანის მეექვსე (6) ასო.
 </ar>
+
+<ar>
+	<k>frigid zone</k>
+	ერთერთი პოლარული ზონა <i>(ზონა ჩრდილოეთ პოლარულ წრესა და ჩრდილოეთ პოლუსს შორის; ასევე, ზონა სამხრეთ პოლარულ წრესა და სამხრეთ პოლუსს შორის.)</i>
+	<p></p>
+</ar>
+
+
+
+
+
 <ar>
 	<k>G</k><k>g</k>
 	ინგლისური ანბანის მეშვიდე (7) ასო.
 </ar>
+
+<ar>
+	<k>gilded youth</k>
+	ოქროს ახალგაზრდობა (კარგი ახალგაზრდობის კონტექსტში)
+	<p></p>
+</ar>
+
 <ar>
 	<k>GMT</k>
 	<i style="color:Green;">შემოკ.<i><a href="Greenwich Mean Time">Greenwich Mean Time</a></i></i><i style="color:DodgerBlue">; = G.M.T.</i>
@@ -1406,124 +1241,41 @@
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 </ar>
 
-
-
 <ar>
 	<k>good</k>
 	[ɡud] [გუდ]
 	<b>1.</b>
 	<i style="color:Green;">adj.</i> <i style="color:DodgerBlue;">ზედსართავი</i>
-	<i style="color:Green;">შედარებითი ხარისხი:</i> - <a href="better">better</a>;
-	<i style="color:Green;">აღმატებული ხარისხი:</i> - <a href="best">best</a>;
+	<i style="color:Green;">შედარებითი ხარისხი:</i> - <i style="color:DodgerBlue;">better</i>;
+	<i style="color:Green;">აღმატებული ხარისხი:</i> - <i style="color:DodgerBlue;">best</i>;
 	1)
 	ა) <span style="color:#fa8d1c;font-weight:bold">კარგი</span>
 	Where can we get some good pizza? -- სად შეგვიძლია ვიშოვოთ კარგი პიცა?
 	William Faulkner's novels are particulary good. -- უილიამ ფოლკნერის რომანები განსაკუთრებით კარგია.
-	ბ) <span style="color:#fa8d1c;font-weight:bold">კარგი</span>; <span style="color:#fa8d1c;font-weight:bold">საღი</span>; <span style="color:#fa8d1c;font-weight:bold">ახალი</span>; <span style="color:#fa8d1c;font-weight:bold">გაუფუჭებელი</span>; <span style="color:#fa8d1c;font-weight:bold">არ გაფუჭებული</span> <i style="color:DodgerBlue;"><b>(საჭმელზე და მსგ.)</b></i>
+	ბ) <span style="color:#fa8d1c;font-weight:bold">კარგი</span>, <span style="color:#fa8d1c;font-weight:bold">საღი</span>, <span style="color:#fa8d1c;font-weight:bold">ახალი</span>, <span style="color:#fa8d1c;font-weight:bold">გაუფუჭებელი</span>, <span style="color:#fa8d1c;font-weight:bold">არ გაფუჭებული</span> <i style="color:DodgerBlue;"><b>(საჭმელზე და მსგ.)</b></i>
 	good food -- კარგი ხარისხის, ხარისხიანი, ვარგისი, კარგი, ახალი, საღი საჭმელი.
 	გ) <span style="color:#fa8d1c;font-weight:bold">ჯანმრთელი</span>
 	one good arm -- ჯანმრთელი, ჯანსაღი ხელი.
 	დ) <span style="color:#fa8d1c;font-weight:bold">ნაყოფიერი</span>, <span style="color:#fa8d1c;font-weight:bold">ნოყიერი</span> <i style="color:DodgerBlue"><b>(მიწა, ნიადაგი)</b></i>
-	<b>.</b>
 	<b>Syn:</b>
 	<a href="fine">fine</a>, <a href="wonderful">wonderful</a>, <a href="spendid">spendid</a>, <a href="first-rate">first-rate</a>, <a href="choice">choice</a>, <a href="select">select</a>, <a href="sound">sound</a>, <a href="capital">capital</a>, <a href="tiptop">tiptop</a>, <a href="worthy">worthy</a>, <a href="worthwhile">worthwhile</a>, <a href="valuable">valuable</a>, <a href="precious">precious</a>, <a href="piceless">piceless</a>, <a href="admirable">admirable</a>, <a href="commendable">commendable</a>, <a href="crack">crack</a>
 	2)
-	ა) <span style="color:#fa8d1c;font-weight:bold">წესიერი</span>; <span style="color:#fa8d1c;font-weight:bold">რიგიანი</span>; <span style="color:#fa8d1c;font-weight:bold">სათნო</span>
+	ა) <span style="color:#fa8d1c;font-weight:bold">წესიერი</span>, <span style="color:#fa8d1c;font-weight:bold">რიგიანი</span>, <span style="color:#fa8d1c;font-weight:bold">სათნო</span>
 	Abraham Lincoln was a wise and good man. -- აბრაამ ლინკოლნი იყო ბრძენი და წესიერი ადამიანი.
-	ბ) <span style="color:#fa8d1c;font-weight:bold">კარგი</span>; <span style="color:#fa8d1c;font-weight:bold">კეთილი</span>; <span style="color:#fa8d1c;font-weight:bold">კეთილმოსურნე</span>; <span style="color:#fa8d1c;font-weight:bold">კეთილის მსურველი</span>
+	ბ) <span style="color:#fa8d1c;font-weight:bold">კარგი</span>, <span style="color:#fa8d1c;font-weight:bold">კეთილი</span>, <span style="color:#fa8d1c;font-weight:bold">კეთილმოსურნე</span>, <span style="color:#fa8d1c;font-weight:bold">კეთილის მსურველი</span>
 	Florence Nightingale was renowned for her good deeds. -- ფლორენს ნაითინგეილი განთქმული იყო თავისი კეთილი საქმეებით.
-	გ) <span style="color:#fa8d1c;font-weight:bold">საყვარელი</span>; <span style="color:#fa8d1c;font-weight:bold">სასიამოვნო</span>; <span style="color:#fa8d1c;font-weight:bold">სანდომიანი</span>; <span style="color:#fa8d1c;font-weight:bold">თავაზიანი</span>
+	გ) <span style="color:#fa8d1c;font-weight:bold">საყვარელი</span>, <span style="color:#fa8d1c;font-weight:bold">სასიამოვნო</span>, <span style="color:#fa8d1c;font-weight:bold">სანდომიანი</span>, <span style="color:#fa8d1c;font-weight:bold">თავაზიანი</span>
 	How good of you! -- როგორი სასიამოვნოა, თქვენი მხრიდან!
-	<b>.</b>
 	<b>Syn:</b>
-	<a href="virtuous">virtuous</a>; <a href="righteous">righteous</a>
-	3)
-	<span style="color:#fa8d1c;font-weight:bold">გამგონე</span>; <span style="color:#fa8d1c;font-weight:bold">ზნეკეთილი, წესიერი, კარგი ქცევის</span>; <span style="color:#fa8d1c;font-weight:bold">საყვარელი</span>; <span style="color:#fa8d1c;font-weight:bold">საყვარელი</span>; <span style="color:#fa8d1c;font-weight:bold">საყვარელი</span>; <span style="color:#fa8d1c;font-weight:bold">საყვარელი</span>; 
-	Have you been a good boy today? -- დღეს კარგი ბიჭი იყავი?
+	<a href="virtuous">virtuous</a>, <a href="righteous">righteous</a>
+</ar>
+
+<ar>
+	<k>Greenwich Mean Time</k>
+	<i style="color:Green;">შემოკ.</i> <i style="color:DodgerBlue"><b>- GMT</b></i> გრინვიჩის დრო, (საშუალო) დრო გრინვიჩის მიხედვით.
 	<b>Syn:</b>
-	<a href="dutiful">dutiful</a>; <a href="obedient">obedient</a>; <a href="proper">proper</a>; <a href="seemly">seemly</a>; <a href="well-mannered">well-mannered</a>; <a href="decorous">decorous</a>; <a href="well-behaved">well-behaved</a>; <a href="orderly">orderly</a>
-	4)
-	<span style="color:#fa8d1c;font-weight:bold">დახელოვნებული, გაწაფული, დაოსტატებული, ოსტატური, მარჯვე, უნარიანი, მოხერხებული, გერგილიანი</span>; <span style="color:#fa8d1c;font-weight:bold">გამოცდილი, კვალიფიცირებული</span>
-	The office needs another good typist. -- ოფისს ესაჭიროება კიდევ ერთი კვალიფიცირებული მბეჭდავი.
-	- <a href="be good at">be good at</a>
-	<b>Syn:</b>
-	<a href="skilled">skilled</a>; <a href="skillful">skillful</a>; <a href="capable">capable</a>; <a href="efficient">efficient</a>; <a href="proficient">proficient</a>; <a href="adroit">adroit</a>; <a href="thorough">thorough</a>; <a href="first-rate">first-rate</a>; <a href="excellent">excellent</a>; <a href="first-class">first-class</a>; <a href="ace">ace</a>
-	5)
-	<span style="color:#fa8d1c;font-weight:bold">სასარგებლო</span>; <span style="color:#fa8d1c;font-weight:bold">გამოსადეგი</span>; <span style="color:#fa8d1c;font-weight:bold">შესაფერი, ხელსაყრელი, სათანადო, ხელსაყრელი</span>
-	<b>Syn:</b>
-	<a href="beneficial">beneficial</a>; <a href="healthful">healthful</a>; <a href="healthy">healthy</a>; <a href="salutary">salutary</a>; <a href="advantageous">advantageous</a>; <a href="suitable">suitable</a>; <a href="appropriate">appropriate</a>; <a href="favorable">favorable</a>; <a href="right">right</a>; <a href="proper">proper</a>; <a href="fitting">fitting</a>; <a href="fit">fit</a>; <a href="qualified">qualified</a>; <a href="useful">useful</a>; <a href="adequate">adequate</a>; <a href="becoming">becoming</a>; <a href="adapter">adapter</a>; <a href="deserving">deserving</a>
-	6)
-	<span style="color:#fa8d1c;font-weight:bold">სასიამოვნო, სიამოვნების, კმაყოფილების მომტანი</span>; <span style="color:#fa8d1c;font-weight:bold">საყვარელი, მიმზიდველი, სასიამოვნო, სანდომიანი, მხიარული, კამპანიური, გულღია, თანაზიარი, გულზიარი</span>; <span style="color:#fa8d1c;font-weight:bold">შესაფერი, ხელსაყრელი, სათანადო, ხელსაყრელი</span>
-	Hava a good time on your vocation. -- სასოამოვნოდ გაგეტარებინოს შვებულება.
-	An entertainer has to have a good personality. -- ესტრადის არტისტი უნდა იყოს გულღია, კამპანიური.
-	<b>Syn:</b>
-	<a href="enjoyable">enjoyable</a>; <a href="pleasant">pleasant</a>; <a href="agreeable">agreeable</a>; <a href="cheerful">cheerful</a>; <a href="lively">lively</a>; <a href="sunny">sunny</a>; <a href="genial">genial</a>; <a href="convivial">convivial</a>; <a href="sociable">sociable</a>; <a href="companionable">companionable</a>
-	7)
-	<span style="color:#fa8d1c;font-weight:bold">კარგი, საუკეთესო</span> <i style="color:DodgerBlue"><b>(როდესაც ვინმეს ან რამეს აქვს დიდი უპირატესობა სხვა მის მსგავს ნივთებს, მოვლენებს ან ადამიანებს შორის)</b></i>
-	Why don't you wear your good suit to the party? -- რატომ არ იცმევ წვეულებისთვის შენს კარგ კოსტუმს?
-	<b>Syn:</b>
-	<a href="best">best</a>; <a href="new">new</a>; <a href="newest">newest</a>; <a href="smartest">smartest</a>; <a href="valuable">valuable</a>; <a href="precious">precious</a>; <a href="priceless">priceless</a>
-	8)
-	<span style="color:#fa8d1c;font-weight:bold">კრედიტუნარიანი</span>; <span style="color:#fa8d1c;font-weight:bold">საიმედო</span>; <span style="color:#fa8d1c;font-weight:bold">ნამდვილი, უტყუარი, უეჭველი, ჭეშმარიტი</span>
-	I would cash his check if I could be sure it was good. -- დარწმუნებული რომ ვიყო, ის სანდოა, მე გავანაღდებდი მის ჩეკს.
-	<b>Syn:</b>
-	<a href="valid">valid</a>; <a href="bona fide">bona fide</a>; <a href="sound">sound</a>; <a href="real">real</a>; <a href="genuine">genuine</a>; <a href="authentic">authentic</a>; <a href="honest">honest</a>; <a href="legitimate">legitimate</a>; <a href="proper">proper</a>; <a href="worthwhile">worthwhile</a>; <a href="valuable">valuable</a>
-	9)
-	ა) <span style="color:#fa8d1c;font-weight:bold">სრული, მთლიანი, მთელი</span>; <span style="color:#fa8d1c;font-weight:bold">დიდი, მნიშვნელოვანი</span> <i style="color:DodgerBlue"><b>(ნაწილი, რაოდენობა, მანძილი და მსგავსი)</b></i>
-	I waited a good time -- მე მთელი საათი ვილოდე.
-	The old farm is a good mile from here. -- ძველი ფერმა აქედან მთელი ერთი მილის დაშორებით არის.
-	She spends a good amount of time playing bridge. -- ის მნიშვნელოვან დროს ბრიჯის თამაშში ატარებს.
-	good deal -- მნიშვნელოვანი რაოდენობა; ბევრი
-	ბ) <i style="color:DodgerBlue"><b>(გამოიყენება რომელიმე მნიშვნელობის ემოციურად გასაძლიერებლად)</b></i>
-	a good many of us -- ძალიან ბევრი ჩვენგანი
-	<b>.</b>
-	<b>Syn:</b>
-	<a href="full">full</a>; <a href="complete">complete</a>; <a href="solid">solid</a>; <a href="entire">entire</a>; <a href="considerable">considerable</a>; <a href="large">large</a>; <a href="fairly great">fairly great</a>; <a href="substantial">substantial</a>; <a href="sizable">sizable</a>; <a href="ample">ample</a>; <a href="adequate">adequate</a>; <a href="sufficient">sufficient</a>
-	10)
-	<span style="color:#fa8d1c;font-weight:bold">დამაჯერებელი, დასაბუთებული</span>
-	<b>Syn:</b>
-	<a href="well-founded">well-founded</a>; <a href="cogent">cogent</a>
-	<b>.</b>
-	<b>Gram:</b>
-	<a href="well-founded">good</a>
-	<b>..</b>
-	as good as -- იგივე რაც; თითქმის; ფაქტობრივად; ფაქტიურად
-	Is he any good at chess? -- მან რამენაირად მაინც იცის ჭადრაკის თამაში?
-	to be as good as one's word -- (საკუთარი) სიტყვის შესრულება
-	- <a href="good gracious!">good gracious!</a>
-	- <a href="good hour">good hour</a>
-	- <a href="good morning">good morning!</a>
-	<b>2.</b>
-	<i style="color:Green;">n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">სიწმინდე, ალალმართლობა, უმწიკვლობა, უბიწობა, სათნოება</span>; <span style="color:#fa8d1c;font-weight:bold">სიკეთე, კეთილდღეობა</span>
-	to bring out the good in smb. -- ვინმეში კარგი თვისებების აღმოჩენა.
-	No one's all bad - everyone has some good in him -- არ არსებობს მთლად ცუდი ადამიანი - ყველაშია რაღაც კარგი.
-	More people should concern themselves with doing good. -- ბევრი ადამიანია დაკავებული ქველმოქმედებით.
-	the common good -- საერთო კეთილდღეობა, სიკეთე.
-	the highest good -- უმაღლესი/უზენაესი სათნოება, სიკეთე.
-	<b>Syn:</b>
-	<a href="goodness">full</a>; <a href="complete">complete</a>; <a href="solid">solid</a>; <a href="entire">entire</a>; <a href="considerable">considerable</a>; <a href="large">large</a>; <a href="fairly great">fairly great</a>; <a href="substantial">substantial</a>; <a href="sizable">sizable</a>; <a href="ample">ample</a>; <a href="adequate">adequate</a>; <a href="sufficient">sufficient</a>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">სარგებელი, ხეირი</span>
-	to the good -- (ვინმესთვის, რამესთვის) სასარგებლოდ.
-	I am telling you this for your good. (A.S. Hornby). -- მე გეუბნებით, ეს თქვენთვისაა (თქვენთვისვეა) უკეთესი.
-	You must try harder for the good of the team. -- თქვენ მეტს უნდა ეცადოთ გუნდისთვის.
-	to come to no good -- არაფერი კარგის მიღწევა.
-	It is no good. -- ეს უშედეგოა. (არაფერია კარგი.)
-	<b>Syn:</b>
-	<a href="benefit">benefit</a>; <a href="advantage">advantage</a>; <a href="gain">gain</a>; <a href="profit">profit</a>; <a href="prosperity">prosperity</a>; <a href="success">success</a>; <a href="welfare">welfare</a>; <a href="interest">interest</a>; <a href="well-being">well-being</a>; <a href="improvement">improvement</a>; <a href="service">service</a>; <a href="favour">favour</a>; <a href="boon">boon</a>; <a href="enjoyment">enjoyment</a>; <a href="happiness">happiness</a>; <a href="wealth">wealth</a>; <a href="blessing">blessing</a>; <a href="godsend">godsend</a>; <a href="prize">prize</a>; <a href="windfall">windfall</a>
-	3)
-	<i style="color:DodgerBlue"><b>(the good)</b></i> <span style="color:#fa8d1c;font-weight:bold">კარგი, კეთილი ადამიანები</span>; <span style="color:#fa8d1c;font-weight:bold">კარგი ნივთები, რამეები</span>
-	<b>..</b>
-	for good (and all) -- სამუდამოდ, საბოლოოდ.
-	<b>3.</b>
-	<i style="color:Green;">adv.</i> <i style="color:DodgerBlue;">ზმნიზედა</i>
-	<i style="color:Green;">spoken</i> <i style="color:DodgerBlue;">სასაუბრო</i>
-	<span style="color:#fa8d1c;font-weight:bold">კარგად</span>
-	He showed me how good I was doing. -- მან მაჩვენა, როგორ კარგად ვიქცევი.
-	<b>Syn:</b>
-	<a href="well">well</a>
+	<a href="Universal Time">Universal Time</a>
+	<p></p>
 </ar>
 
 
@@ -1540,6 +1292,7 @@
 	ჰავაის სტანდარტული დრო <i><b style="color:DodgerBlue">(-10 საათი გრინვიჩიდან, ჰავაი.)</b></i>
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 </ar>
+
 <ar>
 	<k>I</k><k>i</k>
 	ინგლისური ანბანის მეცხრე (9) ასო.
@@ -1553,12 +1306,14 @@
 	<b>Syn</b>
 	<a href="bword:discovery">discovery</a>
 </ar>
+
 <ar>
 	<k>IST</k>
 	<i style="color:Green;">შემოკ.</i> <i style="color:DodgerBlue">Indian Standard Time</i>
 	ინდოეთის სტანდარტული დრო <i><b style="color:DodgerBlue">(+5,5 საათი გრინვიჩიდან;)</b></i>
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 </ar>
+
 <ar>
 	<k>J</k><k>j</k>
 	ინგლისური ანბანის მეათე (10) ასო.
@@ -1567,40 +1322,110 @@
 	<k>K</k><k>k</k>
 	ინგლისური ანბანის მეთერთმეტე (11) ასო.
 </ar>
+
 <ar>
 	<k>L</k><k>l</k>
 	ინგლისური ანბანის მეთორმეტე (12) ასო.
 </ar>
+
 <ar>
 	<k>M</k><k>m</k>
 	ინგლისური ანბანის მეცამეტე (13) ასო.
 </ar>
+
 <ar>
 	<k>MST</k>
 	<i style="color:Green;">შემოკ.</i> <i style="color:DodgerBlue">Mountain Standard Time; = <a href="MT">MT</a></i>
 	მთიანეთის სტანდარტული დრო <i><b style="color:DodgerBlue">(-7 საათი გრინვიჩიდან, აშშ-ს მთიანი შტატები.)</b></i>
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 </ar>
+
+
+
+
+
 <ar>
 	<k>N</k><k>n</k>
 	ინგლისური ანბანის მეთოთხმეტე (14) ასო.
 </ar>
+
+<ar>
+	<k>neutral zone</k>
+	ნეიტრალური ტერიტორია; ნეიტრალური ზონა
+	<p></p>
+</ar>
+
+<ar>
+	<k>newness</k>
+	[ˈnju:nəs]   [ნ(იუ):ნას]
+	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
+	სიახლე
+	<b>Sin:</b>
+	<a href="novelty">novelty</a>
+	<p></p>
+</ar>
+
+<ar>
+	<k>no-parking zone</k>
+	ტერიტორია, რომელზეც აკრძალულია მანქანის გაჩერება (პარკირება).
+	<p></p>
+</ar>
+
+<ar>
+	<k>no-passing zone</k>
+	ტერიტორია, რომელზეც გავლა აკრძალულია.
+	<p></p>
+</ar>
+
+<ar>
+	<k>novelty</k>
+	[ˈnɔv(ə)ltɪ]   ['ნოვ(ა)ლთი]
+	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
+	<p></p>
+	1.
+	ა) სიახლე, ინოვაცია, ახალშემონაღები
+	<b>Sin:</b>
+	<a href="newness">newness</a>
+	<p></p>
+	ბ) ახალი ამბავი, სიახლე, ახალი რამ
+	<b>Sin:</b>
+	<a href="news">news</a>, <a href="innovation">innovation</a>
+	<p></p>
+	2.
+	<b style="color:#5b6abd;">მრავლ.</b> წვრილმანი იაფფასიანი საქონელი <i><b style="color:#5b6abd;">(გალანტერეა, კოსმეტიკა, სუვენირები და ა.შ.)</b></i>
+	<b>Sin:</b>
+	<a href="plaything">plaything</a>
+	<p></p>
+</ar>
+
+	
+
+
+
 <ar>
 	<k>O</k><k>o</k>
 	ინგლისური ანბანის მეთხუთმეტე (15) ასო.
 </ar>
+
+<ar>
+	<k>occupation zone</k>
+	ოკუპირებული ტერიტორია
+	<p></p>
+</ar>
+
+
+
+
+
 <ar>
 	<k>P</k><k>p</k>
 	ინგლისური ანბანის მეთექვმეტე (16) ასო.
 </ar>
 
-
-
 <ar>
 	<k>part</k>
 	[p:t] [ფ:თ]
-	<b>1.</b>
-	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
+	1. <i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
 	1)
 	<b>ა)</b> წილი, ნაწილი
 	the (a) better part -- დიდი ნაწილი
@@ -1615,70 +1440,28 @@
 	<a href="entirety">entirety</a>, <a href="entity">entity</a>, <a href="totality">totality</a>, <a href="unit">unit</a>, <a href="whole">whole</a>
 </ar>
 
-
+<ar>
+	<k>part-exchange</k>
+	გადაცვლა დამატებით/დანამატით (ფულის ან სხვა ფასიანი ნივთის) <i><b style="color:DodgerBlue">(ეს ფრაზა, სიტყვათშეთანხმება შეიძლება გამოვიყენოთ როგორც ზმნა)</b></i>
+	<p></p>
+</ar>
 
 <ar>
 	<k>pint</k>
+	[paɪnt]   [ფაინთ]
+	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
+	<i style="color: #1e8449;">შემოკ.</i> -- <i style="color:#5b6abd;">pt</i>
+	1.
+	პინტა <b><i style="color:#5b6abd;">მოცულობის ერთეული ინგლისურ საზომ ერთეულთა სისტემაში; დიდ ბრიტანეთში = 0,568 ლიტრს; აშშ-ში = 0,473 ლიტრს სითხეებისთვის და 0,55 ლიტრს ფხვიერი, მარცვლოვანი მასებისთვის</i></b>
+	<b>..</b>
+	to make a pint measure hold a quart -- ეცადო გააკეთო რაიმე შეუძლებელი
+	<p></p>
+	2.
+	კათხა, რომლის მოცულობა არის ერთი პინტა
+	<p></p>
+	3.
+	ერთი პინტა ლუდი, ელი <b><i style="color:#5b6abd;">(ან რომელიმე სხვა სითხე)</i></b>
 </ar>
-
-
-
-<ar>
-	<k>proclaim</k>
-	[prəˈkleɪm] [პრა'ქლეიმ]
-	<i>v.</i> <i style="color:DodgerBlue;">ზმნა</i>
-	1)
-	ა) <span style="color:#fa8d1c;font-weight:bold">წარმოთქმა</span> (<span style="color:#fa8d1c;font-weight:bold">წარმოთქვამს</span>), <span style="color:#fa8d1c;font-weight:bold">საჯაროდ თქმა</span> (<span style="color:#fa8d1c;font-weight:bold">საჯაროდ იტყვის</span>), <span style="color:#fa8d1c;font-weight:bold">საჯაროდ გამოცხადება</span> (<span style="color:#fa8d1c;font-weight:bold">საჯაროდ გამოაცხადებს</span>), <span style="color:#fa8d1c;font-weight:bold">წამოყენება</span> (<span style="color:#fa8d1c;font-weight:bold">სიტყვის წმოყენება</span>), <span style="color:#fa8d1c;font-weight:bold">გამოცხადება</span> (მაგ. <span style="color:#fa8d1c;font-weight:bold">იმპერატორად გამოცხადება</span>, <span style="color:#fa8d1c;font-weight:bold">რესპუბლიკის გმაოცხადება</span> და ა.შ.)	
-	to proclaim an amnesty -- ამინისტიის გამოცხადება.
-	to proclaim the country a republic -- ქვეყნის რესპუბლიკად გამოცხადება.
-	to proclaim smb. outlaw -- ვინმეს კანონგარეშე გამოცხადება.
-	<b>Syn:</b>
-	<a href="declare">declare</a>
-	ბ) <span style="color:#fa8d1c;font-weight:bold">საგანგებო მდგომარეობის გამოცხადება</span>
-	გ) <span style="color:#fa8d1c;font-weight:bold">გაცხადება</span>, <span style="color:#fa8d1c;font-weight:bold">პროკლამირება</span>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">გამოქვეყნება</span>, <span style="color:#fa8d1c;font-weight:bold">გასაჯაროება</span>, <span style="color:#fa8d1c;font-weight:bold">გამოცემა</span>
-	to proclaim the decree extraordinary. -- საგანგებო დეკრეტის გამოცემა
-	<b>Syn:</b>
-	<a href="promulgate">promulgate</a>, <a href="publish">publish</a>
-	3)
-	<span style="color:#fa8d1c;font-weight:bold">დამოწმება</span> (<span style="color:#fa8d1c;font-weight:bold">ამოწმებს</span>), <span style="color:#fa8d1c;font-weight:bold">დადასტურება</span>, <span style="color:#fa8d1c;font-weight:bold">შემოწმება</span> (<span style="color:#fa8d1c;font-weight:bold">მაგ. ხელმოწერის შემოწმება</span>, ანუ <span style="color:#fa8d1c;font-weight:bold">დადასტურება</span>), <span style="color:#fa8d1c;font-weight:bold">ჩვენება</span>, <span style="color:#fa8d1c;font-weight:bold">მითითება</span> (<span style="color:#fa8d1c;font-weight:bold">რამეზე</span>, <span style="color:#fa8d1c;font-weight:bold">ვინმეზე</span>)
-	His clothes proclaimed him a priest. -- მისი ტანსაცმელი მას მღვდელმსახურად წარმოაჩენდა.
-	4)
-	<span style="color:#fa8d1c;font-weight:bold">განდიდება</span> (<span style="color:#fa8d1c;font-weight:bold">განადიდებს</span>); <span style="color:#fa8d1c;font-weight:bold">ქების</span>, <span style="color:#fa8d1c;font-weight:bold">ხოტბის შესხმა</span>; <span style="color:#fa8d1c;font-weight:bold">ცამდე აყვანა</span> (<span style="color:#fa8d1c;font-weight:bold">ცამდე აიყვანს</span>); <span style="color:#fa8d1c;font-weight:bold">ამაღლება</span>
-	<b>Syn:</b>
-	<a href="extol">extol</a>
-</ar>
-
-
-
-<ar>
-	<k>PS</k>
-	<b>I.</b>
-	<i style="color:Green;"><b>შემოკ.</b></i> <a href="public school"><i>public school</i></a>
-	<b>II.</b>
-	<i style="color:Green;"><b>შემოკ.</b></i> <a href="Productive Systems"><i>Productive Systems</i></a>
-	<b>III.</b>
-	<i style="color:Green;"><b>შემოკ.</b></i> <a href="Power Supply"><i>Power Supply</i></a>
-	<b>IV.</b>
-	<i style="color:DodgerBlue"><b>კომპიუტერულ ტეერმინოლოგიებში:</b></i>
-	ა) <i style="color:Green;"><b>შემოკ.</b></i> <a href="packet switching"><i>packet switching</i></a>
-	ბ) <i style="color:Green;"><b>შემოკ.</b></i> <a href="personal system"><i>personal system</i></a>
-	გ) <i style="color:Green;"><b>შემოკ.</b></i> <a href="planning and scheduling"><i>planning and scheduling</i></a>
-	დ) <i style="color:Green;"><b>შემოკ.</b></i> <a href="power supply"><i>power supply</i></a>
-	ე) <i style="color:Green;"><b>შემოკ.</b></i> <a href="privileged state"><i>privileged state</i></a>
-	ვ) <i style="color:Green;"><b>შემოკ.</b></i> <a href="pulse shaper"><i>pulse shaper</i></a>
-	<b>...</b>
-	<k>ps</k>
-	<i style="color:DodgerBlue"><b>პატარა ასოებით</b></i>
-	<i style="color:Green;"><b>შემოკ.</b></i> <a href="picosecond"><b>picosecond</b></a>
-	
-	<b>...</b>
-	<i style="color:DodgerBlue"><b>ასევე იხ.</b></i>
-	<a href="PostScript"><b>PostScript</b></a>, <i style="color:Green;"><b>შემოკ.</b></i> <a href="P.S."><b>P.S.</b></a>
-</ar>
-
-
 
 <ar>
 	<k>PST</k>
@@ -1686,6 +1469,7 @@
 	სტანდარტული წყნარი ოკეანის დრო <i><b style="color:DodgerBlue">(-8 საათი გრინვიჩიდან; აშშ-ს წყნარი ოკეანის სანაპირო.)</b></i>
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 </ar>
+
 <ar>
 	<k>PT</k>
 	I. <i style="color:Green;">შემოკ.</i> <i style="color:DodgerBlue">Pacific Time; = <a href="PST">PST</a> I</i>
@@ -1708,118 +1492,210 @@
 
 
 
+
+
 <ar>
 	<k>Q</k><k>q</k>
 	ინგლისური ანბანის მეჩვიდმეტე (17) ასო.
 </ar>
+
+
+
+
+
 <ar>
 	<k>R</k><k>r</k>
 	ინგლისური ანბანის მეთვრამეტე (18) ასო.
 </ar>
+
+
+
+
+
 <ar>
 	<k>S</k><k>s</k>
 	ინგლისური ანბანის მეცხრამეტე (19) ასო.
 </ar>
+
+<ar>
+	<k>safety zone</k>
+	უსაფრთხო ზონა. უსაფრთხო ტერიტორია
+	<p></p>
+</ar>
+
+<ar>
+	<k>school zone</k>
+	სკოლის ტერიტორია
+	<p></p>
+</ar>
+
+<ar>
+	<k>security zone</k>
+	დაცული (დახურული) ტერიტორია. დაცული (დახურული) ზონა
+	<p></p>
+</ar>
+
+
+
+
+
 <ar>
 	<k>T</k><k>t</k>
 	ინგლისური ანბანის მეოცე (20) ასო.
 </ar>
+
+<ar>
+	<k>temperate zone</k>
+	ზომიერი კლიმატის სარტყელი; ზომიერი სარტყელი
+	<p></p>
+</ar>
+
 <ar>
 	<k>the</k>
 	განსაზღვრული არტიკლი
 </ar>
+
 <ar>
 	<k>this</k>
 </ar>
+
+<ar>
+	<k>time zone</k>
+	დროის სარტყელი
+	- <a href="BST">BST</a>
+	- <a href="CET">CET</a>
+	- <a href="CST">CST</a>
+	- <a href="CT">CT</a>
+	- <a href="EET">EET</a>
+	- <a href="EST">EST</a>
+	- <a href="ET">ET</a>
+	- <a href="GMT">GMT</a>
+	- <a href="HST">HST</a>
+	- <a href="IST">IST</a>
+	- <a href="MST">MST</a>
+	- <a href="PST">PST</a>
+	- <a href="PT">PT</a>
+	- <a href="UT">UT</a>
+	<p></p>
+</ar>
+
 <ar>
 	<k>to</k>
 </ar>
 
 <ar>
-	<k>trumpet</k>
-	[ˈtrʌmpɪt] [თრამფით]
-	<b>1.</b>
-	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	1) <span style="color:#fa8d1c;font-weight:bold">მილი</span>, <span style="color:#fa8d1c;font-weight:bold">მილაკი</span>
-	2) <span style="color:#fa8d1c;font-weight:bold">სასმენი მილი</span>
-	3) <span style="color:#fa8d1c;font-weight:bold">რუპორი, მეგაფონი</span>
-	4) <span style="color:#fa8d1c;font-weight:bold">საყვირის ხმა</span>; <span style="color:#fa8d1c;font-weight:bold">საყვირისმიერი ხმა</span>; <span style="color:#fa8d1c;font-weight:bold">სპილოს ბღავილი</span>
-	5) <span style="color:#fa8d1c;font-weight:bold">მილძაბრა</span>
-	6) <span style="color:#fa8d1c;font-weight:bold">მესაყვირე</span>
-	7) <span style="color:#fa8d1c;font-weight:bold">ძაბრი</span>
-	<b>..</b>
-	to blow one's own trumpet -- თავის ქება, თვითრეკლამირება, თვითრეკლამა.
-	<b>2.</b>
-	<i>v.</i> <i style="color:DodgerBlue;">ზმნა</i>
-	1) <span style="color:#fa8d1c;font-weight:bold">საყვირზე დაკვრა</span>; <span style="color:#fa8d1c;font-weight:bold">საყვირში ჩაბერვა</span>
-	The seamen trumpeted back in reply. -- მეზღვაურებმა საპასუხოდ ჩაჰბერეს საყვირს (საყვირებს).
-	2) <span style="color:#fa8d1c;font-weight:bold">შეტყობინება</span>; <span style="color:#fa8d1c;font-weight:bold">ამბის მოდება</span>; <span style="color:#fa8d1c;font-weight:bold">ამბის, ინფორმაციის გავრცელება</span>
-	They trumpeted the story all over the town. -- მათ ეს ამბავი მთელს ქალაქს მოსდეს.
-	<b>Syn:</b>
-	<a href="announce">announce</a>, <a href="proclaim">proclaim</a>
-	3)
-	ა) <span style="color:#fa8d1c;font-weight:bold">ბღავილი</span>, <span style="color:#fa8d1c;font-weight:bold">ყვირილი</span> <i style="color:DodgerBlue"><b>(სპილოს ყვირილი, ბღავილი)</b></i>
-	ბ) <span style="color:#fa8d1c;font-weight:bold">საყვირის ხმის გამოცემა</span>
+	<k>torrid zone</k>
+	ტროპიკული სარტყელი
+	<p></p>
 </ar>
 
-<ar>
-	<k>trustworthy</k>
-	['trʌstwɜ:ði] ['თრასთვო:(ზ)ი]; <i style="color:DodgerBlue">NAmE</i> ['trʌstwɜ:rði] ['თრასთვო:რ(ზ)ი]
-	<i>adj.</i> <i style="color:DodgerBlue;">ზედსართავი სახელი</i>
-	<span style="color:#fa8d1c;font-weight:bold">ნდობის დამმსახურებელი</span> <i style="color:Green;"><b>(ვინმე, რამე)</b></i>; <span style="color:#fa8d1c;font-weight:bold">საიმედო</span>
-	<b>Syn:</b>
-	<a href="dependable">dependable</a>, <a href="reliable">reliable</a>, <a href="trusty">trusty</a>
-	<b>Ant:</b>
-	<a href="heedless">heedless</a>, <a href="inconstant">inconstant</a>, <a href="irresponsible">irresponsible</a>, <a href="negligent">negligent</a>
-</ar>
+
+
+
 
 <ar>
 	<k>U</k><k>u</k>
 	ინგლისური ანბანის ოცდამეერთე (21) ასო.
 </ar>
+
+<ar>
+	<k>Universal Time</k>
+	მსოფლიო დრო, გრინვიჩის დრო, (საშუალო) დრო გრინვიჩის მიხედვით.
+	<b>Syn:</b>
+	<a href="GMT">GMT</a>, <a href="Greenwich Mean Time">Greenwich Mean Time</a>
+	<p></p>
+</ar>
+
 <ar>
 	<k>UT</k>
 	<i style="color:Green;">შემოკ.</i> <i style="color:DodgerBlue">Universal Time; = <a href="MT">MT</a></i>
-	საყოველთაო დრო.
+	საყოველთაო (უნივერსალური) დრო.
 	ასევე იხ. <a href="time zone"><b>time zone</b></a>
 	<b>Syn</b>
 	<a href="GMT">GMT</a>
 </ar>
+
 <ar>
 	<k>V</k><k>v</k>
 	ინგლისური ანბანის ოცდამეორე (22) ასო.
 </ar>
+
+
+
+
+
 <ar>
 	<k>W</k><k>w</k>
 	ინგლისური ანბანის ოცდამესამე (23) ასო.
 </ar>
+
+<ar>
+	<k>war zone</k>
+	საომარი (მოქმედებების) ზონა
+	<p></p>
+</ar>
+
+
+
+
+
 <ar>
 	<k>X</k><k>x</k>
 	ინგლისური ანბანის ოცდამეოთხე (24) ასო.
 </ar>
+
+
+
+
+
 <ar>
 	<k>Y</k><k>y</k>
 	ინგლისური ანბანის ოცდამეხუთე (25) ასო.
 </ar>
 
 <ar>
-	<k>yard</k>
-	[j:d] [ია(რ):დ]
-	<b>I</b> <i style="color:Green;">n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
-	1)
-	ა)
+	<k>young people</k>
+	ახალგაზრდობა (როგორც კრებითი სახელი)
+	<p></p>
 </ar>
 
 <ar>
-	<k>yeah</k>
+	<k>youngness</k>
+	ახალგაზრდობა (როგორც ასაკობრივი პერიოდის აღმნიშვნელი. მაგ: „ჩემი ახალგაზრდობა შრომაში გავატარე.“)
+	<p></p>
 </ar>
 
 <ar>
-	<k>year</k>
-</ar>
-
-<ar>
-	<k>yell</k>
+	<k>youth</k>
+	[ju:θ] [(იუ):ს]
+	<i>n.</i> <i style="color:DodgerBlue;">არსებითი სახელი</i>
+	<p></p>
+	1.
+	<b>ა)</b> სიყამწვილე, ყმაწვილობა, ახალგაზრდობა
+	in one's youth -- ვინმეს ახალგაზრდობაში
+	<b>Syn:</b>
+	<a href="adlolescence">adlolescence</a>, <a href="youngness">youngness</a>
+	<p></p>
+	<b>ბ)</b> ადრეული სტადია, არსებობის ადრეული პერიოდი
+	<p></p>
+	<b>გ)</b><b style="color:#5b6abd;">ფიგურ.</b> სიახლე
+	<b>Syn:</b>
+	<a href="newness">newness</a>, <a href="novelty">novelty</a>, <a href="recentness">recentness</a>
+	<p></p>
+	2.
+	ახალგაზრდა კაცი, ყმაწვილკაცი, ყმაწვილი, მოზარდი
+	<b>Syn:</b>
+	<a href="teenager">teenager</a>
+	<b>Ant:</b>
+	<a href="adult">adult</a>, <a href="grown-up">grown-up</a>
+	<p></p>
+	3.
+	<b style="color:#5b6abd;">კრებ.</b> ახალგაზრდობა
+	the team is now a good mixture of experience and youth. -- გუნდი ახლა წარმოადგენს გამოცდილებისა და ახალგაზრდობის კარგ ერთობას.
+	- <a href="gilded youth">gilded youth</a>
+	<b>Syn:</b>
+	<a href="young people">young people</a>
+	<p></p>
 </ar>
 
 
@@ -1830,48 +1706,6 @@
 	<k>Z</k><k>z</k>
 	ინგლისური ანბანის ოცდამეექვსე (26) ასო.
 </ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-<ar>
-	<k></k>
-</ar>
-
-
-
 
 <ar>
 	<k>zone</k>
@@ -1904,271 +1738,8 @@
 	2. <i style="color:Green;">ამერ.</i> კავშირგაბმულობის განყოფილების რაიონი
 	<p></p>
 	3. <i style="color:Green;">მოძვ.; პოეტ.</i> სალტე
+	<p></p>
 </ar>
 
-
-
-
-
-
-<ar>
-	<k>alternating current</k>
-	<i style="color:Green;"><b>ელექტრ.</b></i>; <i style="color:Green;"><b>შემოკ.</b></i> - <i><a href="AC"><b>AC</b></a></i> ან <i><a href="a.c."><b>a.c.</b></a></i> <span style="color:#fa8d1c;font-weight:bold">ცვლადი დენი</span>
-	<i style="color:DodgerBlue"><b>ელექტრული დენი, რომელიც ცვლის დენის მიმართულებას სხვადასხვა სიხშირით (ვთქვათ 60 გიგაჰერცი აშშ-ში, ან 50 გიგაჰერცი რუსეთში და მის ყოფილ კოლონიებში და ა.შ.). მისი გრაფიკული გამოსახულება შეიძლება გამოსახული იყოს სინუსოიდური ტალღის სახით</b></i>
-	<i style="color:DodgerBlue"><b>შეადარე:</b></i> <a href="direct current">direct current</a>
-	<i style="color:DodgerBlue"><b>ასევე იხ.</b></i> <a href="current">current</a>, <a href="power supply">power supply</a>, <a href="UPS">UPS</a>
-</ar>
-
-
-
-<ar>
-	<k>be better off</k>
-	<span style="color:#fa8d1c;font-weight:bold">იყო უფრო მდიდარი</span>
-	the proposals would make her about £400 a year better off -- ეს კონკრეტული შეთავაზებები მას წელიწადში 400 გირვანქა სტერლინგით უფრო მდიდარს გახდის.
-	Obviously we're better off now that we're both working. -- აშკარაა, ახლა, როდესაც ორივე ვმუშაობთ, უკეთესად ვართ.
-	When his parents died, he found himself $100,000 better off (= he had $100,000 more than before). -- როდესაც მისი მშობლები გარდაიცვალნენ, მან აღმოაჩინა 100000 აშშ დოლარით უფრო მდიდარი იყო (=ანუ მას ჰქონდა 100000 აშშ დოლარით უფრომეტი ვიდრე მშობლების გარდაცვალებამდე)
-</ar>
-<ar>
-	<k>be good at</k>
-	<span style="color:#fa8d1c;font-weight:bold">შემძლე</span> <i style="color:DodgerBlue;">(გააკეთო რამე)</i>; <span style="color:#fa8d1c;font-weight:bold">იყო შემძლე</span> <i style="color:DodgerBlue;">(გააკეთო რამე)</i>; <span style="color:#fa8d1c;font-weight:bold">იყო კარგი</span> <i style="color:DodgerBlue;">(რაიმე საქმეში)</i>; <span style="color:#fa8d1c;font-weight:bold">ნიჭიერი</span> <i style="color:DodgerBlue;">(რაიმე საქმეში)</i>; <span style="color:#fa8d1c;font-weight:bold">მიდრეკილი</span> <i style="color:DodgerBlue;">(რაიმე საქმისადმი)</i> 
-	He is good at languages. -- ის ენებისადმი მიდრეკილია.
-</ar>
-<ar>
-	<k>better hand</k>
-	<span style="color:#fa8d1c;font-weight:bold">უპირატესობა</span>
-</ar>
-<ar>
-	<k>buffer zone</k>
-	ბუფერული ზონა
-</ar>
-
-<ar>
-	<k>climatic zone</k>
-	კლიმატური სარტყელი.
-</ar>
-<ar>
-	<k>combat zone</k>
-	ბრძოლის ველი; ბრძოლის ზონა.
-</ar>
-<ar>
-	<k>comfort zone</k>
-	კომფორტის ზონა
-</ar>
-<ar>
-	<k>denger zone</k>
-	საშიში, სახიფათო ზონა.
-</ar>
-<ar>
-	<k>demilitarized zone</k>
-	დემილიტარიზებული ზონა, დემილიტარიზებული ტერიტორია.
-</ar>
-
-<ar>
-	<k>enterprise zone</k>
-	<i>ამერ.</i> ქალაქში მეწარმეთა ზონა, მეწარმეთა რაიონი.
-</ar>
-
-<ar>
-	<k>frigid zone</k>
-	ერთერთი პოლარული ზონა <i>(ზონა ჩრდილოეთ პოლარულ წრესა და ჩრდილოეთ პოლუსს შორის; ასევე, ზონა სამხრეთ პოლარულ წრესა და სამხრეთ პოლუსს შორის.)</i>
-</ar>
-
-<ar>
-	<k>get the better of</k>
-	<span style="color:#fa8d1c;font-weight:bold">(get the better of smb.)</span>
-	<span style="color:#fa8d1c;font-weight:bold">ვინმეზე უპირატესობის მოპოვება, ვინმეს ჯობნამ, ვინმეს ძლევა</span>
-	He didn't allow anger to get the better of him. -- მან მრისხანებას არ მისცა უფლება მისთვის ეჯობნა.
-</ar>
-
-<ar>
-	<k>Greenwich Mean Time</k>
-	<i style="color:Green;">შემოკ.</i> <i style="color:DodgerBlue"><b>- GMT</b></i> გრინვიჩის დრო, (საშუალო) დრო გრინვიჩის მიხედვით.
-	<b>Syn:</b>
-	<a href="Universal Time">Universal Time</a>
-</ar>
-
-
-
-<ar>
-	<k>mass consumption</k>
-	<span style="color:#fa8d1c;font-weight:bold">მასობრივი მოხმარება</span>
-</ar>
-
-
-
-<ar>
-	<k>neutral zone</k>
-	ნეიტრალური ტერიტორია; ნეიტრალური ზონა
-</ar>
-<ar>
-	<k>no-parking zone</k>
-	ტერიტორია, რომელზეც აკრძალულია მანქანის გაჩერება (პარკირება).
-</ar>
-<ar>
-	<k>no-passing zone</k>
-	ტერიტორია, რომელზეც გავლა აკრძალულია.
-</ar>
-<ar>
-	<k>occupation zone</k>
-	ოკუპირებული ტერიტორია
-</ar>
-<ar>
-	<k>one's betters</k>
-	<span style="color:#fa8d1c;font-weight:bold">ზემდგომი პირები</span>; <span style="color:#fa8d1c;font-weight:bold">უფროსები</span>
-</ar>
-<ar>
-	<k>other half</k>
-	<span style="color:#fa8d1c;font-weight:bold">მეორე ნახევარი</span>
-	Next time I come to this restaurant I will bring my other half. -- შემდეგში, როდესაც ამ რესტორანში მოვალ, ჩემს მეუღლესაც მოვიყვან.
-</ar>
-<ar>
-	<k>part-exchange</k>
-	გადაცვლა დამატებით (ფულის ან სხვა ფასიანი ნივთის) <i><b style="color:DodgerBlue">(ეს ფრაზა, სიტყვათშეთანხმება შეიძლება გამოვიყენოთ როგორც ზმნა)</b></i>
-</ar>
-
-<ar>
-	<k>premature delivery</k>
-	[,preməˈtjuə dɪˈlɪv(ə)rɪ]
-	<span style="color:#fa8d1c;font-weight:bold">ნაადრევი მშობიარობა</span>
-</ar>
-
-<ar>
-	<k>power analysis</k>
-	<span style="color:#fa8d1c;font-weight:bold">მოხმარებული სიმძლავრის ანალიზი</span>
-	<i style="color:DodgerBlue"><b>მაგალითად, დასაპროექტებელი მიკროსქემის(თვის)</b></i>
-	<i style="color:DodgerBlue"><b>ასევე იხ.</b></i> <a href="power consumption">power consumption</a>
-</ar>
-
-
-
-<ar>
-	<k>power consumption</k>
-	<span style="color:#fa8d1c;font-weight:bold">მოხმარებული სიმძლავრე</span>
-	<i style="color:DodgerBlue"><b>ასევე იხ.</b></i> <a href="power analysis">power analysis</a>, <a href="power supply">power supply</a>, <a href="UPS">UPS</a>
-</ar>
-
-
-
-<ar>
-	<k>power supply</k>
-	1)
-	<span style="color:#fa8d1c;font-weight:bold">ელექტრომომარაგება</span>, <span style="color:#fa8d1c;font-weight:bold">ენერგომომარაგება</span>
-	2)
-	<span style="color:#fa8d1c;font-weight:bold">(ელექტრო)კვება</span>
-	3)
-	<span style="color:#fa8d1c;font-weight:bold">(ელექტრო)კვების წყარო</span>
-	4)
-	<i style="color:DodgerBlue"><b>(<a href="PS">PS</a>)</b></i>
-	<span style="color:#fa8d1c;font-weight:bold">(ელექტრო)კვების წყარო [ბლოკი]</span>
-	<i style="color:DodgerBlue"><b>პერსონალურ კომპუტერებში და მათ მსგავს მოწყობილობებში გარდაქმნის ელექტროქსელიდან მიღებულ ცვალებად დენს ან 5, ან 9, ან 12 და ა.შ. ვოლტის ძაბვის მქონე მუდმივ დენად</b></i>
-	<i style="color:DodgerBlue"><b>ასევე იხ.</b></i> <a href="alternating current">alternating current</a>, <a href="direct current">direct current</a>, <a href="power consumption">power consumption</a>, <a href="UPS">UPS</a>
-</ar>
-
-
-
-<ar>
-	<k>Productive Systems</k>
-	<span style="color:#fa8d1c;font-weight:bold">საწარმოო (წარმოების) სისტემები</span>
-</ar>
-
-
-
-<ar>
-	<k>safety zone</k>
-	უსაფრთხო ზონა. უსაფრთხო ტერიტორია
-</ar>
-<ar>
-	<k>school zone</k>
-	სკოლის ტერიტორია
-</ar>
-<ar>
-	<k>security zone</k>
-	დაცული (დახურული) ტერიტორია. დაცული (დახურული) ზონა
-</ar>
-<ar>
-	<k>temperate zone</k>
-	ზომიერი კლიმატის სარტყელი; ზომიერი სარტყელი
-</ar>
-<ar>
-	<k>the better half</k>
-	<span style="color:#fa8d1c;font-weight:bold">უძვირფასესი ნაწილი, საუკეთესო ნაწილი, მეორე ნახევარი, მეუღლე, ცოლი/ქმარი</span>
-	I suggest you to find you better half and get married now. -- გირჩევ იპოვო შენი მეორე ნახევარი და დაქორწილდე.
-	<b>Syn:</b>
-	<a href="other half">other half</a>
-</ar>
-<ar>
-	<k>time zone</k>
-	დროის სარტყელი
-	- <a href="BST">BST</a>
-	- <a href="CET">CET</a>
-	- <a href="CST">CST</a>
-	- <a href="CT">CT</a>
-	- <a href="EET">EET</a>
-	- <a href="EST">EST</a>
-	- <a href="ET">ET</a>
-	- <a href="GMT">GMT</a>
-	- <a href="HST">HST</a>
-	- <a href="IST">IST</a>
-	- <a href="MST">MST</a>
-	- <a href="PST">PST</a>
-	- <a href="PT">PT</a>
-	- <a href="UT">UT</a>
-</ar>
-<ar>
-	<k>torrid zone</k>
-	ტროპიკული სარტყელი
-</ar>
-<ar>
-	<k>Universal Time</k>
-	მსოფლიო დრო, გრინვიჩის დრო, (საშუალო) დრო გრინვიჩის მიხედვით.
-	<b>Syn:</b>
-	<a href="GMT">GMT</a>, <a href="Greenwich Mean Time">Greenwich Mean Time</a>
-</ar>
-<ar>
-	<k>war zone</k>
-	საომარი (მოქმედებების) ზონა
-</ar>
-
-<ar>
-    <k>zero hour</k>
-    [] []
-    1.
-    <i><a href="H-hour"><b>H-hour</b></a></i>
-    <span style="color:#fa8d1c;font-weight:bold">რაიმეს დაწყების დრო</span>; <span style="color:#fa8d1c;font-weight:bold">გადამწყვეტი მომენტი</span>; <span style="color:#fa8d1c;font-weight:bold">გარდატეხის (გარდამტეხი) მომენტი</span>
-    2.
-    a.
-    <span style="color:#fa8d1c;font-weight:bold">დაგეგმილი სამხედრო საომარი მოქმედებების დაწყების დრო</span>
-    <i style="color:DodgerBlue"><b>(the hour at which a planned military operation is scheduled to start)</b></i>
-    b.
-    <span style="color:#fa8d1c;font-weight:bold">დრო, როდესაც დაგეგმილია მნიშვნელოვანი ან აღსანიშნავი ღონისძიება</span>
-    <i style="color:DodgerBlue"><b>(the time at which a usually significat or notable event is scheduled to take place)</b></i>
-    3.
-    <span style="color:#fa8d1c;font-weight:bold">დრო, როდესაც უნდა მოხდეს სასიცოცხლო ან გადამწყვეტი მნიშვნელობის ცვლილება (ცვლილებები)</span>
-    <i style="color:DodgerBlue"><b>(a time when a vital decision or decisive change must be made)</b></i>
-    
-    <b>Syn:</b>
-	<a href="boiling point">boiling point</a>
-	<a href="breaking point">breaking point</a>
-    <a href="clutch">clutch</a>
-    <a href="conjuncture">conjuncture</a>
-    <a href="crisis">crisis</a>
-    <a href="crossroad">crossroad(s)</a>
-    <a href="crunch">crunch</a>
-    <a href="crunch time">crunch time</a>
-    <a href="Dunkirk">Dunkirk</a>
-    <a href="emergency">emergency</a>
-    <a href="exigency">exigency</a>
-    <a href="extremity">extremity</a>
-    <a href="flash point">flash point</a>
-    <a href="head">head</a>
-    <a href="juncture">juncture</a>
-    <a href="tinderbox">tinderbox</a>
-    
-    <i style="color:Green;"><b>მაგალითი</b></i>
-    We're at the <i style="color:DodgerBlue"><b>zero hour</b></i>, so someone has to make a decision -- ჩვენ გარდამტეხი მომენტის წინაშე ვართ, ასე რომ ვინმემ უნდა მიიღოს გადაწყვეტილება.
-    
-    <i style="color:Green;"><b>ტერმინის წარმოშობა</b></i>
-    პირველად გამოიყენეს 1915 წელს, დაგეგმილი სამხედრო-საომარი მოქმედებების დაწყების აღსანიშნავად.
-</ar>
 
 </xdxf>
